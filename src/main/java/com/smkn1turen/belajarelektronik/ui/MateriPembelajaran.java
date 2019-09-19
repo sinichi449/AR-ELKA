@@ -16,6 +16,7 @@ import androidx.navigation.ui.NavigationUI;
 import com.google.android.material.navigation.NavigationView;
 import com.smkn1turen.belajarelektronik.MainActivity;
 import com.smkn1turen.belajarelektronik.R;
+import com.smkn1turen.belajarelektronik.UnityPlayerActivity;
 import com.smkn1turen.belajarelektronik.constant.SetBasicAppearance;
 
 import androidx.drawerlayout.widget.DrawerLayout;
@@ -23,6 +24,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
 
 import android.view.Menu;
+import android.widget.Toast;
 
 public class MateriPembelajaran extends AppCompatActivity {
 
@@ -41,8 +43,10 @@ public class MateriPembelajaran extends AppCompatActivity {
 
         FloatingActionButton fab = findViewById(R.id.fab);
         // TODO: Replace code
-        fab.setOnClickListener(view -> Snackbar.make(view, "Open AR Camera", Snackbar.LENGTH_LONG)
-                .setAction("Action", null).show());
+        fab.setOnClickListener(v -> {
+            Toast.makeText(MateriPembelajaran.this, "Membuka AR", Toast.LENGTH_SHORT).show();
+            startActivity(new Intent(MateriPembelajaran.this, UnityPlayerActivity.class));
+        });
         drawer = findViewById(R.id.drawer_layout);
         NavigationView navigationView = findViewById(R.id.nav_view);
         // Passing each menu ID as a set of Ids because each

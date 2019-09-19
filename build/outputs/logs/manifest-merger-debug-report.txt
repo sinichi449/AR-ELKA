@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:2:1-91:12
-INJECTED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:2:1-91:12
-INJECTED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:2:1-91:12
-INJECTED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:2:1-91:12
+ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:2:1-93:12
+INJECTED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:2:1-93:12
+INJECTED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:2:1-93:12
+INJECTED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:2:1-93:12
 MERGED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\f72ec04caf326fd9f093762dcb8e1f95\AndroidManifest.xml:2:1-32:12
 MERGED from [androidx.navigation:navigation-ui:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\d41f75f9779223426428c97210bc1b12\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.material:material:1.1.0-alpha10] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\8ff9143b5cdbd4b4edab63778adc23a9\AndroidManifest.xml:17:1-24:12
@@ -52,27 +52,33 @@ MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\BAGUS-PC\.grad
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\28e4a14876006a435d07fecf3fcdff83\AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-alpha04] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\9c3283c33203ff1e34088f3c8d9130c0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\35e3abdca1e0b50f4ace5476fa0f192e\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:2:1-91:12
-INJECTED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:2:1-91:12
-INJECTED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:2:1-91:12
+INJECTED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:2:1-93:12
+INJECTED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:2:1-93:12
+INJECTED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:2:1-93:12
 	package
 		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:3:5-47
 		INJECTED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml
 		INJECTED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:2:1-91:12
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:2:1-93:12
 		INJECTED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:2:1-91:12
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:2:1-93:12
 		INJECTED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:2:11-69
 	android:installLocation
 		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:4:5-45
+uses-permission#android.permission.INTERNET
+ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:6:5-67
+MERGED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\f72ec04caf326fd9f093762dcb8e1f95\AndroidManifest.xml:14:5-67
+MERGED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\f72ec04caf326fd9f093762dcb8e1f95\AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:6:22-64
 application
-ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:6:5-59:19
+ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:7:5-61:19
 MERGED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\f72ec04caf326fd9f093762dcb8e1f95\AndroidManifest.xml:19:5-30:19
 MERGED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\f72ec04caf326fd9f093762dcb8e1f95\AndroidManifest.xml:19:5-30:19
 MERGED from [com.google.android.material:material:1.1.0-alpha10] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\8ff9143b5cdbd4b4edab63778adc23a9\AndroidManifest.xml:22:5-20
@@ -90,186 +96,180 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\BA
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\12995ef53f4d9fed84c8dd19a2d11e40\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:10:9-35
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:11:9-35
 	android:label
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:9:9-41
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:10:9-41
 	android:debuggable
 		ADDED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\f72ec04caf326fd9f093762dcb8e1f95\AndroidManifest.xml:19:18-44
 	android:roundIcon
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:8:9-46
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:9:9-46
 	android:icon
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:7:9-41
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:8:9-41
 	android:theme
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:11:9-36
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:12:9-36
 activity#com.smkn1turen.belajarelektronik.splash.SplashPertamaKemendikbud
-ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:12:9-78
+ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:13:9-78
 	android:name
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:12:19-66
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:13:19-66
 activity#com.smkn1turen.belajarelektronik.splash.SplashKeduaRumahBelajar
-ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:13:9-68
+ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:14:9-68
 	android:name
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:13:19-65
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:14:19-65
 activity#com.smkn1turen.belajarelektronik.splash.SplashApp
-ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:14:9-54
+ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:15:9-21:20
 	android:name
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:14:19-51
-activity#com.smkn1turen.belajarelektronik.ui.Tentang
-ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:15:9-16:71
-	android:theme
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:16:13-69
-	android:name
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:15:19-45
-activity#com.smkn1turen.belajarelektronik.ui.MateriPembelajaran
-ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:17:9-18:71
-	android:theme
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:18:13-69
-	android:name
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:17:19-56
-activity#com.smkn1turen.belajarelektronik.ui.Soal
-ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:19:9-20:71
-	android:theme
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:20:13-69
-	android:name
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:19:19-42
-activity#com.smkn1turen.belajarelektronik.ui.SKKDActivity
-ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:21:9-22:71
-	android:theme
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:22:13-69
-	android:name
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:21:19-50
-activity#com.smkn1turen.belajarelektronik.MainActivity
-ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:23:9-31:20
-	android:theme
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:24:13-48
-	android:name
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:23:19-47
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:15:19-51
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:25:13-29:29
+ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:26:17-69
+ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:17:17-69
 	android:name
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:26:25-66
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:28:17-77
+ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:19:17-77
 	android:name
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:28:27-74
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:19:27-74
+activity#com.smkn1turen.belajarelektronik.ui.Tentang
+ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:22:9-23:71
+	android:theme
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:23:13-69
+	android:name
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:22:19-45
+activity#com.smkn1turen.belajarelektronik.ui.MateriPembelajaran
+ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:24:9-25:71
+	android:theme
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:25:13-69
+	android:name
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:24:19-56
+activity#com.smkn1turen.belajarelektronik.ui.Soal
+ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:26:9-27:71
+	android:theme
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:27:13-69
+	android:name
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:26:19-42
+activity#com.smkn1turen.belajarelektronik.ui.SKKDActivity
+ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:28:9-29:71
+	android:theme
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:29:13-69
+	android:name
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:28:19-50
+activity#com.smkn1turen.belajarelektronik.MainActivity
+ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:30:9-33:20
+	android:theme
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:31:13-48
+	android:name
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:30:19-47
 activity#com.smkn1turen.belajarelektronik.UnityPlayerActivity
-ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:32:9-45:20
+ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:34:9-47:20
 	android:screenOrientation
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:38:13-51
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:40:13-51
 	android:label
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:36:13-45
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:38:13-45
 	android:launchMode
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:37:13-44
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:39:13-44
 	android:hardwareAccelerated
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:35:13-48
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:37:13-48
 	android:configChanges
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:34:13-194
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:36:13-194
 	android:name
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:33:13-48
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:35:13-48
 meta-data#unityplayer.UnityActivity
-ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:39:13-41:40
+ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:41:13-43:40
 	android:value
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:41:17-37
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:43:17-37
 	android:name
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:40:17-57
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:42:17-57
 meta-data#android.notch_support
-ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:42:13-44:40
+ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:44:13-46:40
 	android:value
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:44:17-37
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:46:17-37
 	android:name
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:43:17-53
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:45:17-53
 meta-data#unity.build-id
-ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:47:9-49:68
+ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:49:9-51:68
 	android:value
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:49:13-65
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:51:13-65
 	android:name
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:48:13-42
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:50:13-42
 meta-data#unity.splash-mode
-ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:50:9-52:33
+ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:52:9-54:33
 	android:value
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:52:13-30
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:54:13-30
 	android:name
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:51:13-45
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:53:13-45
 meta-data#unity.splash-enable
-ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:53:9-55:36
+ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:55:9-57:36
 	android:value
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:55:13-33
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:57:13-33
 	android:name
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:54:13-47
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:56:13-47
 meta-data#notch.config
-ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:56:9-58:50
+ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:58:9-60:50
 	android:value
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:58:13-47
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:60:13-47
 	android:name
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:57:13-40
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:59:13-40
 supports-screens
-ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:61:5-66:40
+ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:63:5-68:40
 	android:largeScreens
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:63:9-36
-	android:smallScreens
 		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:65:9-36
+	android:smallScreens
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:67:9-36
 	android:normalScreens
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:64:9-37
-	android:xlargeScreens
 		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:66:9-37
+	android:xlargeScreens
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:68:9-37
 	android:anyDensity
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:62:9-34
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:64:9-34
 uses-feature#0x00020000
-ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:67:5-54
+ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:69:5-54
 	android:glEsVersion
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:67:19-51
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:69:19-51
 uses-feature#android.hardware.camera
-ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:68:5-70:36
+ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:70:5-72:36
 MERGED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\f72ec04caf326fd9f093762dcb8e1f95\AndroidManifest.xml:12:5-60
 MERGED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\f72ec04caf326fd9f093762dcb8e1f95\AndroidManifest.xml:12:5-60
 	android:required
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:70:9-33
-		MERGED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:70:9-33
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:72:9-33
+		MERGED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:72:9-33
 	android:name
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:69:9-47
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:71:9-47
 uses-feature#android.hardware.camera.autofocus
-ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:71:5-73:36
+ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:73:5-75:36
 	android:required
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:73:9-33
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:75:9-33
 	android:name
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:72:9-57
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:74:9-57
 uses-feature#android.hardware.camera.front
-ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:74:5-76:36
+ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:76:5-78:36
 	android:required
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:76:9-33
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:78:9-33
 	android:name
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:75:9-53
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:77:9-53
 uses-feature#android.hardware.touchscreen
-ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:77:5-79:36
+ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:79:5-81:36
 	android:required
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:79:9-33
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:81:9-33
 	android:name
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:78:9-52
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:80:9-52
 uses-feature#android.hardware.touchscreen.multitouch
-ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:80:5-82:36
+ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:82:5-84:36
 	android:required
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:82:9-33
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:84:9-33
 	android:name
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:81:9-63
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:83:9-63
 uses-feature#android.hardware.touchscreen.multitouch.distinct
-ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:84:5-86:36
+ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:86:5-88:36
 	android:required
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:86:9-33
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:88:9-33
 	android:name
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:85:9-72
-uses-permission#android.permission.INTERNET
-ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:87:5-67
-MERGED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\f72ec04caf326fd9f093762dcb8e1f95\AndroidManifest.xml:14:5-67
-MERGED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\f72ec04caf326fd9f093762dcb8e1f95\AndroidManifest.xml:14:5-67
-	android:name
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:87:22-64
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:87:9-72
 uses-permission#android.permission.CAMERA
-ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:89:5-65
+ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:91:5-65
 MERGED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\f72ec04caf326fd9f093762dcb8e1f95\AndroidManifest.xml:15:5-65
 MERGED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\f72ec04caf326fd9f093762dcb8e1f95\AndroidManifest.xml:15:5-65
 	android:name
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:89:22-62
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:91:22-62
 uses-sdk
 INJECTED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml
@@ -401,7 +401,7 @@ ADDED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\file
 	android:name
 		ADDED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\f72ec04caf326fd9f093762dcb8e1f95\AndroidManifest.xml:28:13-54
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:2:1-91:12 reason: com.vuforia.engine.ext requested WRITE_EXTERNAL_STORAGE
+IMPLIED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:2:1-93:12 reason: com.vuforia.engine.ext requested WRITE_EXTERNAL_STORAGE
 provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
 ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\d288ba34127a2aa9aca7009ab48e5860\AndroidManifest.xml:23:9-27:43
 	android:authorities

@@ -3,6 +3,7 @@
     package="com.smkn1turen.belajarelektronik"
     android:installLocation="preferExternal">
 
+    <uses-permission android:name="android.permission.INTERNET" />
     <application
         android:icon="@drawable/ic_logo"
         android:roundIcon="@drawable/ic_logo"
@@ -11,7 +12,13 @@
         android:theme="@style/Full">
         <activity android:name=".splash.SplashPertamaKemendikbud"></activity>
         <activity android:name=".splash.SplashKeduaRumahBelajar" />
-        <activity android:name=".splash.SplashApp" />
+        <activity android:name=".splash.SplashApp">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
         <activity android:name=".ui.Tentang"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
         <activity android:name=".ui.MateriPembelajaran"
@@ -22,11 +29,6 @@
             android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
         <activity android:name=".MainActivity"
             android:theme="@style/MainActivity">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
 
         </activity>
         <activity

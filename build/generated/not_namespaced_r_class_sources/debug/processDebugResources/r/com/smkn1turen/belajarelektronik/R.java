@@ -7258,9 +7258,10 @@ public final class R {
     public static final int view_offset_helper=0x7f090149;
     public static final int visible=0x7f09014a;
     public static final int visible_removing_fragment_view_tag=0x7f09014b;
-    public static final int withText=0x7f09014c;
-    public static final int wrap=0x7f09014d;
-    public static final int wrap_content=0x7f09014e;
+    public static final int webView=0x7f09014c;
+    public static final int withText=0x7f09014d;
+    public static final int wrap=0x7f09014e;
+    public static final int wrap_content=0x7f09014f;
   }
   public static final class integer {
     public static final int abc_config_activityDefaultDur=0x7f0a0000;

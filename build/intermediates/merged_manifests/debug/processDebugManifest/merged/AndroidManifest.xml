@@ -9,6 +9,8 @@
         android:minSdkVersion="16"
         android:targetSdkVersion="29" />
 
+    <uses-permission android:name="android.permission.INTERNET" />
+
     <supports-screens
         android:anyDensity="true"
         android:largeScreens="true"
@@ -49,10 +51,17 @@
         android:label="@string/app_name"
         android:roundIcon="@drawable/ic_logo"
         android:supportsRtl="true"
+        android:testOnly="true"
         android:theme="@style/Full" >
         <activity android:name="com.smkn1turen.belajarelektronik.splash.SplashPertamaKemendikbud" />
         <activity android:name="com.smkn1turen.belajarelektronik.splash.SplashKeduaRumahBelajar" />
-        <activity android:name="com.smkn1turen.belajarelektronik.splash.SplashApp" />
+        <activity android:name="com.smkn1turen.belajarelektronik.splash.SplashApp" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
         <activity
             android:name="com.smkn1turen.belajarelektronik.ui.Tentang"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
@@ -68,11 +77,6 @@
         <activity
             android:name="com.smkn1turen.belajarelektronik.MainActivity"
             android:theme="@style/MainActivity" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
         </activity>
         <activity
             android:name="com.smkn1turen.belajarelektronik.UnityPlayerActivity"
