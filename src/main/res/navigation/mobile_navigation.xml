@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <!--TODO: Change label-->
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.smkn1turen.belajarelektronik.ui.materi.dasar_elektronika.DasarElektronikaFragment"
+        android:label="Dasar Elektronika"
+        tools:layout="@layout/fragment_dasar_elektronika" />
+
+    <fragment
+        android:id="@+id/nav_resistor"
+        android:name="com.smkn1turen.belajarelektronik.ui.materi.resistor.ResistorFragment"
+        android:label="Resistor"
+        tools:layout="@layout/fragment_resistor" />
+
+    <fragment
+        android:id="@+id/nav_kapasitor"
+        android:name="com.smkn1turen.belajarelektronik.ui.materi.kapasitor.KapasitorFragment"
+        android:label="Kapasitor"
+        tools:layout="@layout/fragment_kapasitor" />
+
+    <fragment
+        android:id="@+id/nav_dioda"
+        android:name="com.smkn1turen.belajarelektronik.ui.materi.dioda.DiodaFragment"
+        android:label="Dioda"
+        tools:layout="@layout/fragment_dioda" />
+
+    <fragment
+        android:id="@+id/nav_transistor"
+        android:name="com.smkn1turen.belajarelektronik.ui.materi.transistor.TransistorFragment"
+        android:label="Transistor"
+        tools:layout="@layout/fragment_transistor" />
+
+    <fragment
+        android:id="@+id/nav_induktor"
+        android:name="com.smkn1turen.belajarelektronik.ui.materi.induktor.InduktorFragment"
+        android:label="Induktor"
+        tools:layout="@layout/fragment_induktor" />
+
+    <fragment
+        android:id="@+id/nav_integrated_circuit"
+        android:name="com.smkn1turen.belajarelektronik.ui.materi.ic.IntegratedCircuitFragment"
+        android:label="Integrated Circuit"
+        tools:layout="@layout/fragment_integrated_circuit" />
+
+    <fragment
+        android:id="@+id/nav_daftar_pustaka"
+        android:name="com.smkn1turen.belajarelektronik.ui.materi.daftar_pustaka.DaftarPustakaFragment"
+        android:label="Daftar Pustaka"
+        tools:layout="@layout/fragment_daftar_pustaka" />
+</navigation>

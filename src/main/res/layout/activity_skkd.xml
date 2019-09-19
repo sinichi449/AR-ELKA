@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.SKKDActivity"
+    android:background="#fff">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <androidx.appcompat.widget.Toolbar
+                android:id="@+id/toolbar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/skyblue">
+
+                <RelativeLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content">
+
+                    <ImageView
+                        android:id="@+id/btn_back_from_silabus"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:src="@drawable/ic_arrow_back_black_24dp"
+                        />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:gravity="center"
+                        android:fontFamily="@font/arial"
+                        android:text="Silabus Mata Pelajaran"
+                        android:textColor="#ffff"
+                        android:textSize="18sp"
+                        android:layout_toRightOf="@+id/btn_back_from_silabus" />
+                </RelativeLayout>
+
+            </androidx.appcompat.widget.Toolbar>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_margin="8dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="KI-3 (Pengetahuan)"
+                style="@style/HeaderText"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/CommonText"
+                android:layout_marginTop="5dp"
+                android:text="Memahami, menerapkan, menganalisis, dan mengevaluasi tentang pengetahuan faktual, konseptual, operasional dasar, dan metakognitif sesuai dengan bidang dan lingkup kerja Teknik Komputer dan Informatika pada tingkat teknis, spesifik, detil, dan kompleks, berkenaan dengan ilmu pengetahuan, teknologi, seni, budaya, dan humaniora dalam konteks pengembangan potensi diri sebagai bagian dari keluarga, sekolah, dunia kerja, warga masyarakat nasional, regional, dan internasional." />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/HeaderText"
+                android:text="KI-4 (Keterampilan)"
+                android:layout_marginTop="10dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                style="@style/CommonText"
+                android:layout_marginTop="5dp"
+                android:text="Melaksanakan tugas spesifik, dengan menggunakan alat, informasi, dan prosedur kerja yang lazim dilakukan serta menyelesaikan masalah sederhana sesuai dengan bidang dan lingkup kerja Teknik Komputer dan Informatika. Menampilkan kinerja mandiri dengan mutu dan kuantitas yang terukur sesuai dengan standar kompetensi kerja.Menunjukkan keterampilan menalar, mengolah, dan menyaji secara efektif, kreatif, produktif, kritis, mandiri, kolaboratif, komunikatif, dan solutif dalam ranah abstrak terkait dengan pengembangan dari yang dipelajarinya di sekolah, serta mampu melaksanakan tugas spesifik dibawah pengawasan langsung.Menunjukkan keterampilan mempersepsi, kesiapan, meniru, membiasakan gerak mahir, menjadikan gerak alami, sampai dengan tindakan orisinal dalam ranah konkret terkait dengan pengembangan dari yang dipelajarinya di sekolah, serta mampu melaksanakan tugas spesifik dibawah pengawasan langsung."/>
+
+
+            <TextView
+                style="@style/HeaderText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="1. Kompetensi Dasar" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="30dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="5dp"
+                android:fontFamily="@font/arial"
+                android:text="Menerapkan elektronika dasar (kelistrikan, komponen elektronika dan skema elektronika)."
+                android:textColor="#3D3D3D" />
+
+            <TextView
+                style="@style/HeaderText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="2. Indikator Kompetensi" />
+
+            <TextView
+                style="@style/CommonText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:text="a. Menjelaskan dasar-dasar listrik dan elektronika dasar.\nb. Menjelaskan komponen-komponen elektronika"/>
+
+            <TextView
+                style="@style/HeaderText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="3. Materi Pokok" />
+
+            <TextView
+                style="@style/CommonText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:text="a. Besaran arus, tegangan, resistansi, dan daya listrik.\nb. Simbol komponen elektronika." />
+
+
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>

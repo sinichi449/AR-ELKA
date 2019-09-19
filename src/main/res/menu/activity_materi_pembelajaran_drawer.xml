@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:state="http://schemas.android.com/apk/res-auto"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <!--TODO: Change icons along its own scientific symbol-->
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Dasar Elektronika" />
+        <item
+            android:id="@+id/nav_resistor"
+            android:icon="@drawable/ic_resistor"
+            android:title="Resistor" />
+        <item
+            android:id="@+id/nav_kapasitor"
+            android:icon="@drawable/ic_capacitor"
+            android:title="Kapasitor" />
+        <item
+            android:id="@+id/nav_dioda"
+            android:icon="@drawable/ic_diode"
+            android:title="Dioda" />
+
+        <item
+            android:id="@+id/nav_transistor"
+            android:icon="@drawable/ic_transistor"
+            android:title="Transistor" />
+        <item
+            android:id="@+id/nav_induktor"
+            android:icon="@drawable/ic_inductor"
+            android:title="Induktor" />
+        <item
+            android:id="@+id/nav_integrated_circuit"
+            android:icon="@drawable/ic_circuit"
+            android:title="Integrated Circuit"/>
+        <item
+            android:id="@+id/nav_daftar_pustaka"
+            android:icon="@drawable/ic_book_black_24dp"
+            android:title="Daftar Pustaka"/>
+    </group>
+</menu>

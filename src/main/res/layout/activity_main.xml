@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="#fff">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/header"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:background="@drawable/ic_header"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/tv_mke"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Memahami Komponen Elektronika"
+            android:fontFamily="@font/arial"
+            android:textStyle="bold"
+            android:textColor="@color/colorBlack"
+            android:textSize="18sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/header"
+            android:layout_marginTop="20dp" />
+
+        <ImageView
+            android:id="@+id/img_skkd"
+            android:layout_width="175dp"
+            android:layout_height="120dp"
+            android:src="@drawable/ic_skkd"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tv_mke"
+            app:layout_constraintEnd_toStartOf="@+id/img_ar"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginEnd="5dp"
+            android:layout_marginRight="5dp" />
+
+        <ImageView
+            android:id="@+id/img_ar"
+            android:layout_width="175dp"
+            android:layout_height="120dp"
+            android:src="@drawable/ic_ar"
+            app:layout_constraintStart_toEndOf="@id/img_skkd"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/tv_mke"
+            android:layout_marginTop="20dp"
+            android:layout_marginEnd="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginStart="5dp"
+            android:layout_marginLeft="5dp" />
+
+        <ImageView
+            android:id="@+id/img_materi_pelajaran"
+            android:layout_width="175dp"
+            android:layout_height="120dp"
+            android:src="@drawable/ic_mp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/img_skkd"
+            app:layout_constraintEnd_toStartOf="@id/img_soal"
+            android:layout_marginStart="15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginEnd="5dp"
+            android:layout_marginRight="5dp" />
+
+        <ImageView
+            android:id="@+id/img_soal"
+            android:layout_width="175dp"
+            android:layout_height="120dp"
+            android:src="@drawable/ic_soal"
+            app:layout_constraintStart_toEndOf="@id/img_materi_pelajaran"
+            app:layout_constraintTop_toBottomOf="@+id/img_ar"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginStart="5dp"
+            android:layout_marginLeft="5dp" />
+
+        <ImageView
+            android:id="@+id/img_petunjuk"
+            android:layout_width="175dp"
+            android:layout_height="120dp"
+            android:src="@drawable/ic_petunjuk"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/img_materi_pelajaran"
+            app:layout_constraintEnd_toStartOf="@+id/img_tentang"
+            android:layout_marginTop="5dp"
+            android:layout_marginStart="15dp"
+            android:layout_marginLeft="15dp"
+            android:layout_marginEnd="5dp"
+            android:layout_marginRight="5dp" />
+
+        <ImageView
+            android:id="@+id/img_tentang"
+            android:layout_width="175dp"
+            android:layout_height="120dp"
+            android:src="@drawable/ic_tentang"
+            app:layout_constraintStart_toEndOf="@+id/img_petunjuk"
+            app:layout_constraintTop_toBottomOf="@+id/img_soal"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_marginEnd="15dp"
+            android:layout_marginRight="15dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginStart="5dp"
+            android:layout_marginLeft="5dp" />
+
+
+
+        <ImageView
+            android:id="@+id/img_back"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/ic_back"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/img_petunjuk"
+            app:layout_constraintBottom_toBottomOf="parent"
+            android:layout_marginTop="25dp"/>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>
