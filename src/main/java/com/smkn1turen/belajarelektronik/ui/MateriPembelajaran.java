@@ -47,7 +47,6 @@ public class MateriPembelajaran extends AppCompatActivity {
         NavigationView navigationView = findViewById(R.id.nav_view);
         // Passing each menu ID as a set of Ids because each
         // menu should be considered as top level destinations.
-        // TODO: Replace code
         mAppBarConfiguration = new AppBarConfiguration.Builder(
                 R.id.nav_home, R.id.nav_resistor, R.id.nav_kapasitor,
                 R.id.nav_dioda, R.id.nav_transistor, R.id.nav_induktor,

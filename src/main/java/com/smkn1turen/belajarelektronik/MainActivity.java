@@ -28,48 +28,37 @@ public class MainActivity extends AppCompatActivity {
 
         // SKKD Event
         ImageView imgSkkd = findViewById(R.id.img_skkd);
-        imgSkkd.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent myIntent = new Intent(MainActivity.this, SKKDActivity.class);
-                ActivityOptions options =
-                        ActivityOptions.makeCustomAnimation(MainActivity.this, android.R.anim.slide_in_left,
-                                android.R.anim.slide_out_right);
-                startActivity(myIntent, options.toBundle());
-            }
+        imgSkkd.setOnClickListener(v -> {
+            Intent myIntent = new Intent(MainActivity.this, SKKDActivity.class);
+            ActivityOptions options =
+                    ActivityOptions.makeCustomAnimation(MainActivity.this, android.R.anim.slide_in_left,
+                            android.R.anim.slide_out_right);
+            startActivity(myIntent, options.toBundle());
         });
 
 
         // AR Event
         ImageView imgAr = findViewById(R.id.img_ar);
-        imgAr.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                // TODO: AR Event Handler
-            }
+        imgAr.setOnClickListener(v -> {
+            // TODO: AR Event Handler
+            startActivity(new Intent(MainActivity.this, UnityPlayerActivity.class));
         });
 
         // Materi Pelajaran Event
         ImageView imgMateriPelajaran = findViewById(R.id.img_materi_pelajaran);
-        imgMateriPelajaran.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                ActivityOptions options = ActivityOptions.makeCustomAnimation(MainActivity.this, android.R.anim.slide_in_left,
-                        android.R.anim.slide_out_right);
-                startActivity(new Intent(MainActivity.this, MateriPembelajaran.class), options.toBundle());
-            }
+        imgMateriPelajaran.setOnClickListener(v -> {
+            ActivityOptions options = ActivityOptions.makeCustomAnimation(MainActivity.this, android.R.anim.slide_in_left,
+                    android.R.anim.slide_out_right);
+            startActivity(new Intent(MainActivity.this, MateriPembelajaran.class), options.toBundle());
         });
 
         // Soal-soal Event
         ImageView imgSoal = findViewById(R.id.img_soal);
-        imgSoal.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                ActivityOptions options = ActivityOptions.makeCustomAnimation(
-                        MainActivity.this, android.R.anim.slide_in_left,
-                        android.R.anim.slide_out_right);
-                startActivity(new Intent(MainActivity.this, Soal.class), options.toBundle());
-            }
+        imgSoal.setOnClickListener(v -> {
+            ActivityOptions options = ActivityOptions.makeCustomAnimation(
+                    MainActivity.this, android.R.anim.slide_in_left,
+                    android.R.anim.slide_out_right);
+            startActivity(new Intent(MainActivity.this, Soal.class), options.toBundle());
         });
 
         // Petujuk Event
