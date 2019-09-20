@@ -108,7 +108,7 @@
             android:id="@+id/img_tentang"
             android:layout_width="175dp"
             android:layout_height="120dp"
-            android:src="@drawable/ic_tentang"
+            android:src="@drawable/ic_info"
             app:layout_constraintStart_toEndOf="@+id/img_petunjuk"
             app:layout_constraintTop_toBottomOf="@+id/img_soal"
             app:layout_constraintEnd_toEndOf="parent"

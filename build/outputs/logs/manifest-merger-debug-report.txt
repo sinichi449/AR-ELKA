@@ -129,12 +129,12 @@ category#android.intent.category.LAUNCHER
 ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:19:17-77
 	android:name
 		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:19:27-74
-activity#com.smkn1turen.belajarelektronik.ui.Tentang
+activity#com.smkn1turen.belajarelektronik.ui.Info
 ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:22:9-23:71
 	android:theme
 		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:23:13-69
 	android:name
-		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:22:19-45
+		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:22:19-42
 activity#com.smkn1turen.belajarelektronik.ui.MateriPembelajaran
 ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:24:9-25:71
 	android:theme
