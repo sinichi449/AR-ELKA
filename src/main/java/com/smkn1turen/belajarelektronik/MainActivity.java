@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+
         // Set native status bar color on Lollipop or higher
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
             getWindow().addFlags(WindowManager.LayoutParams.FLAG_DRAWS_SYSTEM_BAR_BACKGROUNDS);
@@ -79,7 +80,12 @@ public class MainActivity extends AppCompatActivity {
 
         // Back Button (Exit)
         ImageView imgBack = findViewById(R.id.img_back);
-        imgBack.setOnClickListener(v -> finish());
+        imgBack.setOnClickListener(v -> {
+            Intent intent = new Intent(Intent.ACTION_MAIN);
+            intent.addCategory(Intent.CATEGORY_HOME);
+            intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+            startActivity(intent);
+        });
     }
 
     @Override
