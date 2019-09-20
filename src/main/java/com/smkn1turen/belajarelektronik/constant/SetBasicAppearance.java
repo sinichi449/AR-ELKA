@@ -10,6 +10,7 @@ import android.view.View;
 import android.view.Window;
 import android.view.WindowManager;
 import android.widget.ImageView;
+
 import com.github.barteksc.pdfviewer.PDFView;
 import com.smkn1turen.belajarelektronik.MainActivity;
 import com.smkn1turen.belajarelektronik.R;
@@ -31,16 +32,13 @@ public class SetBasicAppearance {
     }
 
     public static void backToMainWithSlide(ImageView imgBack, final Context context) {
-        imgBack.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent myIntent = new Intent(context, MainActivity.class);
-                ActivityOptions options =
-                        ActivityOptions.makeCustomAnimation(context, android.R.anim.slide_in_left,
-                                android.R.anim.slide_out_right);
-                context.startActivity(myIntent, options.toBundle());
-                ((Activity)context).finish();
-            }
+        imgBack.setOnClickListener(v -> {
+            Intent myIntent = new Intent(context, MainActivity.class);
+            ActivityOptions options =
+                    ActivityOptions.makeCustomAnimation(context, android.R.anim.slide_in_left,
+                            android.R.anim.slide_out_right);
+            context.startActivity(myIntent, options.toBundle());
+            ((Activity)context).finish();
         });
     }
 

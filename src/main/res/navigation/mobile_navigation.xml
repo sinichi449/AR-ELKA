@@ -36,21 +36,4 @@
         android:label="Transistor"
         tools:layout="@layout/fragment_transistor" />
 
-    <fragment
-        android:id="@+id/nav_induktor"
-        android:name="com.smkn1turen.belajarelektronik.ui.materi.induktor.InduktorFragment"
-        android:label="Induktor"
-        tools:layout="@layout/fragment_induktor" />
-
-    <fragment
-        android:id="@+id/nav_integrated_circuit"
-        android:name="com.smkn1turen.belajarelektronik.ui.materi.ic.IntegratedCircuitFragment"
-        android:label="Integrated Circuit"
-        tools:layout="@layout/fragment_integrated_circuit" />
-
-    <fragment
-        android:id="@+id/nav_daftar_pustaka"
-        android:name="com.smkn1turen.belajarelektronik.ui.materi.daftar_pustaka.DaftarPustakaFragment"
-        android:label="Daftar Pustaka"
-        tools:layout="@layout/fragment_daftar_pustaka" />
 </navigation>

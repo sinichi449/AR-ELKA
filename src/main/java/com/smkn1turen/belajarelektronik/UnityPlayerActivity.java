@@ -1,16 +1,14 @@
 package com.smkn1turen.belajarelektronik;
 
-import com.unity3d.player.*;
 import android.app.Activity;
 import android.content.Intent;
 import android.content.res.Configuration;
-import android.graphics.PixelFormat;
 import android.os.Bundle;
 import android.view.KeyEvent;
 import android.view.MotionEvent;
-import android.view.View;
 import android.view.Window;
-import android.view.WindowManager;
+
+import com.unity3d.player.UnityPlayer;
 
 public class UnityPlayerActivity extends Activity
 {
@@ -19,6 +17,8 @@ public class UnityPlayerActivity extends Activity
     // Setup activity layout
     @Override protected void onCreate(Bundle savedInstanceState)
     {
+
+        // Set fullscreen
         requestWindowFeature(Window.FEATURE_NO_TITLE);
         super.onCreate(savedInstanceState);
 

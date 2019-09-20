@@ -4,54 +4,54 @@ ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:2
 INJECTED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:2:1-93:12
 INJECTED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:2:1-93:12
 INJECTED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:2:1-93:12
-MERGED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\f72ec04caf326fd9f093762dcb8e1f95\AndroidManifest.xml:2:1-32:12
-MERGED from [androidx.navigation:navigation-ui:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\d41f75f9779223426428c97210bc1b12\AndroidManifest.xml:17:1-24:12
-MERGED from [com.google.android.material:material:1.1.0-alpha10] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\8ff9143b5cdbd4b4edab63778adc23a9\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\279bcb69af1f2537262ab7a4e17b2879\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\4b2a74557de9f484c2de4c541161b328\AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.navigation:navigation-fragment:2.2.0-alpha02] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\b87cad5bb8751274b0cce1d2eb204842\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\9173beb6e790433a05967eb4ff0048fc\AndroidManifest.xml:17:1-25:12
-MERGED from [com.github.barteksc:android-pdf-viewer:2.8.2] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\37c7564f6101624f36d225822cb8c8fc\AndroidManifest.xml:2:1-11:12
-MERGED from [com.github.barteksc:pdfium-android:1.7.1] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\40f378b037639a2ae25b7d1bed16ff55\AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\4519a6a73e33c63e7b4f450ef215090d\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\655b276fefb891277b50db76ca2ad335\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\2d14aced8135445336e8993c983f08b2\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\38d5e3d209242d7052838404768834e0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\0b50acf16fea947ba78c527dd050e9ba\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.transition:transition:1.0.1] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\5e220b6f110e144750681a73f87e98da\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\8685af11b1da9a71b8d835b14ce5ef5a\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\abfddc7aedcf2feb698d7d52725a6c2e\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\fdee85d79d4ede71d2148138d83f01b1\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta03] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\e953b55f2ccb55861b67fe9c00c11084\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.fragment:fragment:1.2.0-alpha03] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\83e4f36cbd138411f28744d5e05168c5\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\83b8705c08b486552dc6bf528a6ea556\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\67cdbfb5dc67c28bca87b0315b09c85e\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.navigation:navigation-runtime:2.2.0-alpha02] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\667dfbcd98a523ea243b2e284606e4e2\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.activity:activity:1.1.0-alpha03] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\334ef9c8483176dd507cf456653ac90c\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0-alpha04] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\12399b8366cc54882c96acccac0ba118\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0-alpha04] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\b04169446f03d2cf94a52f9e5fd6517a\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\c74c011eaccde70eff7c18b2602e298f\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\08ee505dea0a8e042a8f15d642b9bab3\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\d288ba34127a2aa9aca7009ab48e5860\AndroidManifest.xml:17:1-30:12
-MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\990e221eeb040222dfb9a9369e0f0ca8\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.media:media:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\76ad48a38f34983c6ed672bc13945922\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\fbfca71f1602a629c24b04a3f31cbf9a\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta01] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\1e79108212f20c171f04bfce2e7e3bd7\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\372224649c2eb7d714278b55c1aafc8c\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\406517db77ca3f803e96f6a64cdc6027\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\3c93765bed16c1cc251b7691232cb976\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.navigation:navigation-common:2.2.0-alpha02] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\7dfb19f9d4ba51913c336e514859a24a\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\0e6ab3bab4595a5cc3ccecd6fb8db8e5\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\ab95896ab3a6837b17e800be8b69cf4e\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\12995ef53f4d9fed84c8dd19a2d11e40\AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-alpha04] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\dd5c9f9fbb2c63d1a7040ebbb4c3df68\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\1ed26f3989299c190162228702274318\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\3d25c514e439232a19dbdd68ae5266e0\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\ad724e4c6edc945162fa0926547ee6e4\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\efadf76392eb3df7f939da2d15b2519f\AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\28e4a14876006a435d07fecf3fcdff83\AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-alpha04] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\9c3283c33203ff1e34088f3c8d9130c0\AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\35e3abdca1e0b50f4ace5476fa0f192e\AndroidManifest.xml:17:1-22:12
+MERGED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\9d14183d8ff09eda6f2e6f3f824f09a4\VuforiaWrapper\AndroidManifest.xml:2:1-32:12
+MERGED from [androidx.navigation:navigation-ui:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\4fee315991fc5bf40bf5e34a0198581d\jetified-navigation-ui-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.1.0-alpha10] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\da95ffa5303229b21124ff07d5e27b01\material-1.1.0-alpha10\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\a8c03165c69018fbda4f77f1eb58f4bb\appcompat-1.1.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\8392647ca9531c13a8f0d6b7ad086e7e\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.navigation:navigation-fragment:2.2.0-alpha02] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\5a0fa0c6d92568dd9ee02f537af30d67\navigation-fragment-2.2.0-alpha02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\df470e1373f88845f5f332cb0d11af75\lifecycle-extensions-2.1.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.github.barteksc:android-pdf-viewer:2.8.2] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\fa9a0941076743921e3f0ae6bf9dbf47\jetified-android-pdf-viewer-2.8.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.barteksc:pdfium-android:1.7.1] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\addce10a111ca919c3ebabc1d57518be\jetified-pdfium-android-1.7.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\1964611a1907e3ea07b40ce4c516c284\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\abc680e55824c418c024460e31034ed4\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\ba2af06f417607d7ef1ca9f201a0d139\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\ccc4f60e4549c263b614feec2a027fa2\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\f394ee478b4ec1dcbbf5ae71b3314faa\coordinatorlayout-1.1.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\80b2360a587be5f7a2d6fa8510bd68ae\transition-1.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\151b6eaf6b82495f9d6d2e4022b1c206\appcompat-resources-1.1.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\d9777564941afe65d02c8839e09589a8\vectordrawable-animated-1.1.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\a78ea519f2610bf25f521f4a43442eab\vectordrawable-1.1.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta03] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\b5fa044729524827998e74ee2c6bf618\viewpager2-1.0.0-beta03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.0-alpha03] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\477f9d948007f411cd59d210bd77e604\fragment-1.2.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\331f61861c2d3a925f2252286afb1f53\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\35ea013adaf2265b5a814edcc0e48b35\lifecycle-livedata-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.2.0-alpha02] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\d9ba91f1c63df52638523a6f54270b7a\navigation-runtime-2.2.0-alpha02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0-alpha03] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\c17f54bb0c3be448f6a31d32a505449e\activity-1.1.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0-alpha04] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\dd9d68badce2cf719f63a78fa7c77b62\lifecycle-viewmodel-savedstate-1.0.0-alpha04\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0-alpha04] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\254837d68e7a086d61887f9760c9d667\lifecycle-livedata-core-2.2.0-alpha04\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\384e1b5d703f7ead48bd253f34125353\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\e660add08636fe4b89ec7c2a833386d6\savedstate-1.0.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\c75b512c68f7bb7a7c5a931aae563be5\lifecycle-process-2.1.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\f297fd1a37e8f1e094c72340601523f6\lifecycle-service-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\a6ce3afbff3f1ae3fa1fe13048b173d9\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\34085af895daa23049fd0af188e6a001\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta01] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\a3172aa59c57a5da0079730ae808b7b8\recyclerview-1.1.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\f3997ce16a5c00ae84a772d300d0e1e8\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\eb11c4797d5d5b24d5dcbbebe26babf4\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\740a70a0c89c8c085b6e012b4bd7790e\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.2.0-alpha02] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\d5be1ba7eb3c01d63ee926276a79cda3\navigation-common-2.2.0-alpha02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\31dc29ba3158cee4b1ca2bf2f6ff141b\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\435f1166e6a428a0025d9cd273cb35a2\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\c527b78844be871c44103f6f45a963fb\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-alpha04] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\8d479dfd41c6d897dc369f37c39a6201\lifecycle-runtime-2.2.0-alpha04\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\9d52be8c254a228a91eaf05f51d52923\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\9093771a98b01557e81860f4122d7892\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\7ec682ca46f5c90ea9a9e0cba0c0310a\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\aa91d8d2653c363bbd5da9d9892260d3\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\c9c8616d74aa0ab3eb457d24b669c685\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-alpha04] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\2d210d410bc29a4e8903d3e9a0815146\lifecycle-viewmodel-2.2.0-alpha04\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\d4ef17d609918d2a5f5a86d1ea02678f\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
 INJECTED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:2:1-93:12
 INJECTED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:2:1-93:12
 INJECTED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:2:1-93:12
@@ -73,34 +73,34 @@ INJECTED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xm
 		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:4:5-45
 uses-permission#android.permission.INTERNET
 ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:6:5-67
-MERGED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\f72ec04caf326fd9f093762dcb8e1f95\AndroidManifest.xml:14:5-67
-MERGED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\f72ec04caf326fd9f093762dcb8e1f95\AndroidManifest.xml:14:5-67
+MERGED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\9d14183d8ff09eda6f2e6f3f824f09a4\VuforiaWrapper\AndroidManifest.xml:14:5-67
+MERGED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\9d14183d8ff09eda6f2e6f3f824f09a4\VuforiaWrapper\AndroidManifest.xml:14:5-67
 	android:name
 		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:6:22-64
 application
 ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:7:5-61:19
-MERGED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\f72ec04caf326fd9f093762dcb8e1f95\AndroidManifest.xml:19:5-30:19
-MERGED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\f72ec04caf326fd9f093762dcb8e1f95\AndroidManifest.xml:19:5-30:19
-MERGED from [com.google.android.material:material:1.1.0-alpha10] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\8ff9143b5cdbd4b4edab63778adc23a9\AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.1.0-alpha10] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\8ff9143b5cdbd4b4edab63778adc23a9\AndroidManifest.xml:22:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\4b2a74557de9f484c2de4c541161b328\AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\4b2a74557de9f484c2de4c541161b328\AndroidManifest.xml:9:5-20
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\9173beb6e790433a05967eb4ff0048fc\AndroidManifest.xml:22:5-23:19
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\9173beb6e790433a05967eb4ff0048fc\AndroidManifest.xml:22:5-23:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\d288ba34127a2aa9aca7009ab48e5860\AndroidManifest.xml:22:5-28:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\d288ba34127a2aa9aca7009ab48e5860\AndroidManifest.xml:22:5-28:19
-MERGED from [androidx.core:core:1.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\12995ef53f4d9fed84c8dd19a2d11e40\AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\12995ef53f4d9fed84c8dd19a2d11e40\AndroidManifest.xml:24:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\28e4a14876006a435d07fecf3fcdff83\AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\28e4a14876006a435d07fecf3fcdff83\AndroidManifest.xml:24:5-25:19
+MERGED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\9d14183d8ff09eda6f2e6f3f824f09a4\VuforiaWrapper\AndroidManifest.xml:19:5-30:19
+MERGED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\9d14183d8ff09eda6f2e6f3f824f09a4\VuforiaWrapper\AndroidManifest.xml:19:5-30:19
+MERGED from [com.google.android.material:material:1.1.0-alpha10] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\da95ffa5303229b21124ff07d5e27b01\material-1.1.0-alpha10\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha10] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\da95ffa5303229b21124ff07d5e27b01\material-1.1.0-alpha10\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\8392647ca9531c13a8f0d6b7ad086e7e\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\8392647ca9531c13a8f0d6b7ad086e7e\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\df470e1373f88845f5f332cb0d11af75\lifecycle-extensions-2.1.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\df470e1373f88845f5f332cb0d11af75\lifecycle-extensions-2.1.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\c75b512c68f7bb7a7c5a931aae563be5\lifecycle-process-2.1.0\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\c75b512c68f7bb7a7c5a931aae563be5\lifecycle-process-2.1.0\AndroidManifest.xml:22:5-28:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\c527b78844be871c44103f6f45a963fb\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\c527b78844be871c44103f6f45a963fb\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\c9c8616d74aa0ab3eb457d24b669c685\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\c9c8616d74aa0ab3eb457d24b669c685\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\12995ef53f4d9fed84c8dd19a2d11e40\AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\c527b78844be871c44103f6f45a963fb\core-1.1.0\AndroidManifest.xml:24:18-86
 	android:supportsRtl
 		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:11:9-35
 	android:label
 		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:10:9-41
 	android:debuggable
-		ADDED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\f72ec04caf326fd9f093762dcb8e1f95\AndroidManifest.xml:19:18-44
+		ADDED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\9d14183d8ff09eda6f2e6f3f824f09a4\VuforiaWrapper\AndroidManifest.xml:19:18-44
 	android:roundIcon
 		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:9:9-46
 	android:icon
@@ -227,8 +227,8 @@ ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:6
 		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:69:19-51
 uses-feature#android.hardware.camera
 ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:70:5-72:36
-MERGED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\f72ec04caf326fd9f093762dcb8e1f95\AndroidManifest.xml:12:5-60
-MERGED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\f72ec04caf326fd9f093762dcb8e1f95\AndroidManifest.xml:12:5-60
+MERGED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\9d14183d8ff09eda6f2e6f3f824f09a4\VuforiaWrapper\AndroidManifest.xml:12:5-60
+MERGED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\9d14183d8ff09eda6f2e6f3f824f09a4\VuforiaWrapper\AndroidManifest.xml:12:5-60
 	android:required
 		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:72:9-33
 		MERGED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:72:9-33
@@ -266,110 +266,110 @@ ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:8
 		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:87:9-72
 uses-permission#android.permission.CAMERA
 ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:91:5-65
-MERGED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\f72ec04caf326fd9f093762dcb8e1f95\AndroidManifest.xml:15:5-65
-MERGED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\f72ec04caf326fd9f093762dcb8e1f95\AndroidManifest.xml:15:5-65
+MERGED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\9d14183d8ff09eda6f2e6f3f824f09a4\VuforiaWrapper\AndroidManifest.xml:15:5-65
+MERGED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\9d14183d8ff09eda6f2e6f3f824f09a4\VuforiaWrapper\AndroidManifest.xml:15:5-65
 	android:name
 		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:91:22-62
 uses-sdk
 INJECTED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml
 INJECTED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml
-MERGED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\f72ec04caf326fd9f093762dcb8e1f95\AndroidManifest.xml:8:5-10:41
-MERGED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\f72ec04caf326fd9f093762dcb8e1f95\AndroidManifest.xml:8:5-10:41
-MERGED from [androidx.navigation:navigation-ui:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\d41f75f9779223426428c97210bc1b12\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-ui:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\d41f75f9779223426428c97210bc1b12\AndroidManifest.xml:20:5-22:41
-MERGED from [com.google.android.material:material:1.1.0-alpha10] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\8ff9143b5cdbd4b4edab63778adc23a9\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.1.0-alpha10] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\8ff9143b5cdbd4b4edab63778adc23a9\AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\279bcb69af1f2537262ab7a4e17b2879\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\279bcb69af1f2537262ab7a4e17b2879\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\4b2a74557de9f484c2de4c541161b328\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\4b2a74557de9f484c2de4c541161b328\AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.navigation:navigation-fragment:2.2.0-alpha02] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\b87cad5bb8751274b0cce1d2eb204842\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-fragment:2.2.0-alpha02] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\b87cad5bb8751274b0cce1d2eb204842\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\9173beb6e790433a05967eb4ff0048fc\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\9173beb6e790433a05967eb4ff0048fc\AndroidManifest.xml:20:5-44
-MERGED from [com.github.barteksc:android-pdf-viewer:2.8.2] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\37c7564f6101624f36d225822cb8c8fc\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.barteksc:android-pdf-viewer:2.8.2] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\37c7564f6101624f36d225822cb8c8fc\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.barteksc:pdfium-android:1.7.1] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\40f378b037639a2ae25b7d1bed16ff55\AndroidManifest.xml:7:5-9:41
-MERGED from [com.github.barteksc:pdfium-android:1.7.1] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\40f378b037639a2ae25b7d1bed16ff55\AndroidManifest.xml:7:5-9:41
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\4519a6a73e33c63e7b4f450ef215090d\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\4519a6a73e33c63e7b4f450ef215090d\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\655b276fefb891277b50db76ca2ad335\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\655b276fefb891277b50db76ca2ad335\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\2d14aced8135445336e8993c983f08b2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\2d14aced8135445336e8993c983f08b2\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\38d5e3d209242d7052838404768834e0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\38d5e3d209242d7052838404768834e0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\0b50acf16fea947ba78c527dd050e9ba\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\0b50acf16fea947ba78c527dd050e9ba\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.transition:transition:1.0.1] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\5e220b6f110e144750681a73f87e98da\AndroidManifest.xml:20:5-44
-MERGED from [androidx.transition:transition:1.0.1] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\5e220b6f110e144750681a73f87e98da\AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\8685af11b1da9a71b8d835b14ce5ef5a\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\8685af11b1da9a71b8d835b14ce5ef5a\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\abfddc7aedcf2feb698d7d52725a6c2e\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\abfddc7aedcf2feb698d7d52725a6c2e\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\fdee85d79d4ede71d2148138d83f01b1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\fdee85d79d4ede71d2148138d83f01b1\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta03] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\e953b55f2ccb55861b67fe9c00c11084\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta03] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\e953b55f2ccb55861b67fe9c00c11084\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.2.0-alpha03] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\83e4f36cbd138411f28744d5e05168c5\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.2.0-alpha03] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\83e4f36cbd138411f28744d5e05168c5\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\83b8705c08b486552dc6bf528a6ea556\AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\83b8705c08b486552dc6bf528a6ea556\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\67cdbfb5dc67c28bca87b0315b09c85e\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\67cdbfb5dc67c28bca87b0315b09c85e\AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-runtime:2.2.0-alpha02] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\667dfbcd98a523ea243b2e284606e4e2\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-runtime:2.2.0-alpha02] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\667dfbcd98a523ea243b2e284606e4e2\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.1.0-alpha03] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\334ef9c8483176dd507cf456653ac90c\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.1.0-alpha03] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\334ef9c8483176dd507cf456653ac90c\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0-alpha04] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\12399b8366cc54882c96acccac0ba118\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0-alpha04] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\12399b8366cc54882c96acccac0ba118\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0-alpha04] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\b04169446f03d2cf94a52f9e5fd6517a\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0-alpha04] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\b04169446f03d2cf94a52f9e5fd6517a\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\c74c011eaccde70eff7c18b2602e298f\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\c74c011eaccde70eff7c18b2602e298f\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\08ee505dea0a8e042a8f15d642b9bab3\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\08ee505dea0a8e042a8f15d642b9bab3\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\d288ba34127a2aa9aca7009ab48e5860\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\d288ba34127a2aa9aca7009ab48e5860\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\990e221eeb040222dfb9a9369e0f0ca8\AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\990e221eeb040222dfb9a9369e0f0ca8\AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\76ad48a38f34983c6ed672bc13945922\AndroidManifest.xml:20:5-44
-MERGED from [androidx.media:media:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\76ad48a38f34983c6ed672bc13945922\AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\fbfca71f1602a629c24b04a3f31cbf9a\AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\fbfca71f1602a629c24b04a3f31cbf9a\AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta01] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\1e79108212f20c171f04bfce2e7e3bd7\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta01] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\1e79108212f20c171f04bfce2e7e3bd7\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\372224649c2eb7d714278b55c1aafc8c\AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\372224649c2eb7d714278b55c1aafc8c\AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\406517db77ca3f803e96f6a64cdc6027\AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\406517db77ca3f803e96f6a64cdc6027\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\3c93765bed16c1cc251b7691232cb976\AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\3c93765bed16c1cc251b7691232cb976\AndroidManifest.xml:20:5-44
-MERGED from [androidx.navigation:navigation-common:2.2.0-alpha02] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\7dfb19f9d4ba51913c336e514859a24a\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.navigation:navigation-common:2.2.0-alpha02] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\7dfb19f9d4ba51913c336e514859a24a\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\0e6ab3bab4595a5cc3ccecd6fb8db8e5\AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\0e6ab3bab4595a5cc3ccecd6fb8db8e5\AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\ab95896ab3a6837b17e800be8b69cf4e\AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\ab95896ab3a6837b17e800be8b69cf4e\AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\12995ef53f4d9fed84c8dd19a2d11e40\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\12995ef53f4d9fed84c8dd19a2d11e40\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-alpha04] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\dd5c9f9fbb2c63d1a7040ebbb4c3df68\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-alpha04] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\dd5c9f9fbb2c63d1a7040ebbb4c3df68\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\1ed26f3989299c190162228702274318\AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\1ed26f3989299c190162228702274318\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\3d25c514e439232a19dbdd68ae5266e0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\3d25c514e439232a19dbdd68ae5266e0\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\ad724e4c6edc945162fa0926547ee6e4\AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\ad724e4c6edc945162fa0926547ee6e4\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\efadf76392eb3df7f939da2d15b2519f\AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\efadf76392eb3df7f939da2d15b2519f\AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\28e4a14876006a435d07fecf3fcdff83\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\28e4a14876006a435d07fecf3fcdff83\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-alpha04] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\9c3283c33203ff1e34088f3c8d9130c0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-alpha04] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\9c3283c33203ff1e34088f3c8d9130c0\AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\35e3abdca1e0b50f4ace5476fa0f192e\AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\35e3abdca1e0b50f4ace5476fa0f192e\AndroidManifest.xml:20:5-44
+MERGED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\9d14183d8ff09eda6f2e6f3f824f09a4\VuforiaWrapper\AndroidManifest.xml:8:5-10:41
+MERGED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\9d14183d8ff09eda6f2e6f3f824f09a4\VuforiaWrapper\AndroidManifest.xml:8:5-10:41
+MERGED from [androidx.navigation:navigation-ui:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\4fee315991fc5bf40bf5e34a0198581d\jetified-navigation-ui-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\4fee315991fc5bf40bf5e34a0198581d\jetified-navigation-ui-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.1.0-alpha10] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\da95ffa5303229b21124ff07d5e27b01\material-1.1.0-alpha10\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0-alpha10] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\da95ffa5303229b21124ff07d5e27b01\material-1.1.0-alpha10\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\a8c03165c69018fbda4f77f1eb58f4bb\appcompat-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\a8c03165c69018fbda4f77f1eb58f4bb\appcompat-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\8392647ca9531c13a8f0d6b7ad086e7e\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\8392647ca9531c13a8f0d6b7ad086e7e\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.navigation:navigation-fragment:2.2.0-alpha02] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\5a0fa0c6d92568dd9ee02f537af30d67\navigation-fragment-2.2.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.2.0-alpha02] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\5a0fa0c6d92568dd9ee02f537af30d67\navigation-fragment-2.2.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\df470e1373f88845f5f332cb0d11af75\lifecycle-extensions-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\df470e1373f88845f5f332cb0d11af75\lifecycle-extensions-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.barteksc:android-pdf-viewer:2.8.2] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\fa9a0941076743921e3f0ae6bf9dbf47\jetified-android-pdf-viewer-2.8.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:android-pdf-viewer:2.8.2] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\fa9a0941076743921e3f0ae6bf9dbf47\jetified-android-pdf-viewer-2.8.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:pdfium-android:1.7.1] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\addce10a111ca919c3ebabc1d57518be\jetified-pdfium-android-1.7.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.barteksc:pdfium-android:1.7.1] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\addce10a111ca919c3ebabc1d57518be\jetified-pdfium-android-1.7.1\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\1964611a1907e3ea07b40ce4c516c284\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\1964611a1907e3ea07b40ce4c516c284\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\abc680e55824c418c024460e31034ed4\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\abc680e55824c418c024460e31034ed4\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\ba2af06f417607d7ef1ca9f201a0d139\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\ba2af06f417607d7ef1ca9f201a0d139\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\ccc4f60e4549c263b614feec2a027fa2\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\ccc4f60e4549c263b614feec2a027fa2\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\f394ee478b4ec1dcbbf5ae71b3314faa\coordinatorlayout-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-beta01] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\f394ee478b4ec1dcbbf5ae71b3314faa\coordinatorlayout-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\80b2360a587be5f7a2d6fa8510bd68ae\transition-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\80b2360a587be5f7a2d6fa8510bd68ae\transition-1.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\151b6eaf6b82495f9d6d2e4022b1c206\appcompat-resources-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\151b6eaf6b82495f9d6d2e4022b1c206\appcompat-resources-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\d9777564941afe65d02c8839e09589a8\vectordrawable-animated-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\d9777564941afe65d02c8839e09589a8\vectordrawable-animated-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\a78ea519f2610bf25f521f4a43442eab\vectordrawable-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\a78ea519f2610bf25f521f4a43442eab\vectordrawable-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta03] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\b5fa044729524827998e74ee2c6bf618\viewpager2-1.0.0-beta03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0-beta03] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\b5fa044729524827998e74ee2c6bf618\viewpager2-1.0.0-beta03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0-alpha03] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\477f9d948007f411cd59d210bd77e604\fragment-1.2.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0-alpha03] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\477f9d948007f411cd59d210bd77e604\fragment-1.2.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\331f61861c2d3a925f2252286afb1f53\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\331f61861c2d3a925f2252286afb1f53\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\35ea013adaf2265b5a814edcc0e48b35\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\35ea013adaf2265b5a814edcc0e48b35\lifecycle-livedata-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.2.0-alpha02] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\d9ba91f1c63df52638523a6f54270b7a\navigation-runtime-2.2.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.2.0-alpha02] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\d9ba91f1c63df52638523a6f54270b7a\navigation-runtime-2.2.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0-alpha03] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\c17f54bb0c3be448f6a31d32a505449e\activity-1.1.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0-alpha03] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\c17f54bb0c3be448f6a31d32a505449e\activity-1.1.0-alpha03\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0-alpha04] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\dd9d68badce2cf719f63a78fa7c77b62\lifecycle-viewmodel-savedstate-1.0.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0-alpha04] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\dd9d68badce2cf719f63a78fa7c77b62\lifecycle-viewmodel-savedstate-1.0.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0-alpha04] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\254837d68e7a086d61887f9760c9d667\lifecycle-livedata-core-2.2.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0-alpha04] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\254837d68e7a086d61887f9760c9d667\lifecycle-livedata-core-2.2.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\384e1b5d703f7ead48bd253f34125353\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\384e1b5d703f7ead48bd253f34125353\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\e660add08636fe4b89ec7c2a833386d6\savedstate-1.0.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\e660add08636fe4b89ec7c2a833386d6\savedstate-1.0.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\c75b512c68f7bb7a7c5a931aae563be5\lifecycle-process-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\c75b512c68f7bb7a7c5a931aae563be5\lifecycle-process-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\f297fd1a37e8f1e094c72340601523f6\lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-service:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\f297fd1a37e8f1e094c72340601523f6\lifecycle-service-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\a6ce3afbff3f1ae3fa1fe13048b173d9\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\a6ce3afbff3f1ae3fa1fe13048b173d9\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\34085af895daa23049fd0af188e6a001\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\34085af895daa23049fd0af188e6a001\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta01] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\a3172aa59c57a5da0079730ae808b7b8\recyclerview-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-beta01] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\a3172aa59c57a5da0079730ae808b7b8\recyclerview-1.1.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\f3997ce16a5c00ae84a772d300d0e1e8\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\f3997ce16a5c00ae84a772d300d0e1e8\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\eb11c4797d5d5b24d5dcbbebe26babf4\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\eb11c4797d5d5b24d5dcbbebe26babf4\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\740a70a0c89c8c085b6e012b4bd7790e\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\740a70a0c89c8c085b6e012b4bd7790e\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.2.0-alpha02] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\d5be1ba7eb3c01d63ee926276a79cda3\navigation-common-2.2.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.2.0-alpha02] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\d5be1ba7eb3c01d63ee926276a79cda3\navigation-common-2.2.0-alpha02\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\31dc29ba3158cee4b1ca2bf2f6ff141b\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\31dc29ba3158cee4b1ca2bf2f6ff141b\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\435f1166e6a428a0025d9cd273cb35a2\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\435f1166e6a428a0025d9cd273cb35a2\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\c527b78844be871c44103f6f45a963fb\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\c527b78844be871c44103f6f45a963fb\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-alpha04] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\8d479dfd41c6d897dc369f37c39a6201\lifecycle-runtime-2.2.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0-alpha04] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\8d479dfd41c6d897dc369f37c39a6201\lifecycle-runtime-2.2.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\9d52be8c254a228a91eaf05f51d52923\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\9d52be8c254a228a91eaf05f51d52923\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\9093771a98b01557e81860f4122d7892\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\9093771a98b01557e81860f4122d7892\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\7ec682ca46f5c90ea9a9e0cba0c0310a\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\7ec682ca46f5c90ea9a9e0cba0c0310a\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\aa91d8d2653c363bbd5da9d9892260d3\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\aa91d8d2653c363bbd5da9d9892260d3\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\c9c8616d74aa0ab3eb457d24b669c685\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\c9c8616d74aa0ab3eb457d24b669c685\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-alpha04] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\2d210d410bc29a4e8903d3e9a0815146\lifecycle-viewmodel-2.2.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-alpha04] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\2d210d410bc29a4e8903d3e9a0815146\lifecycle-viewmodel-2.2.0-alpha04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\d4ef17d609918d2a5f5a86d1ea02678f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\d4ef17d609918d2a5f5a86d1ea02678f\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 INJECTED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml
 INJECTED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml
 	android:targetSdkVersion
@@ -381,34 +381,34 @@ INJECTED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xm
 		ADDED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml
 		INJECTED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\f72ec04caf326fd9f093762dcb8e1f95\AndroidManifest.xml:16:5-79
+ADDED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\9d14183d8ff09eda6f2e6f3f824f09a4\VuforiaWrapper\AndroidManifest.xml:16:5-79
 	android:name
-		ADDED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\f72ec04caf326fd9f093762dcb8e1f95\AndroidManifest.xml:16:22-76
+		ADDED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\9d14183d8ff09eda6f2e6f3f824f09a4\VuforiaWrapper\AndroidManifest.xml:16:22-76
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\f72ec04caf326fd9f093762dcb8e1f95\AndroidManifest.xml:17:5-81
+ADDED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\9d14183d8ff09eda6f2e6f3f824f09a4\VuforiaWrapper\AndroidManifest.xml:17:5-81
 	android:name
-		ADDED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\f72ec04caf326fd9f093762dcb8e1f95\AndroidManifest.xml:17:22-78
+		ADDED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\9d14183d8ff09eda6f2e6f3f824f09a4\VuforiaWrapper\AndroidManifest.xml:17:22-78
 meta-data#com.google.ar.core
-ADDED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\f72ec04caf326fd9f093762dcb8e1f95\AndroidManifest.xml:22:9-24:40
+ADDED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\9d14183d8ff09eda6f2e6f3f824f09a4\VuforiaWrapper\AndroidManifest.xml:22:9-24:40
 	android:value
-		ADDED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\f72ec04caf326fd9f093762dcb8e1f95\AndroidManifest.xml:24:13-37
+		ADDED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\9d14183d8ff09eda6f2e6f3f824f09a4\VuforiaWrapper\AndroidManifest.xml:24:13-37
 	android:name
-		ADDED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\f72ec04caf326fd9f093762dcb8e1f95\AndroidManifest.xml:23:13-46
+		ADDED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\9d14183d8ff09eda6f2e6f3f824f09a4\VuforiaWrapper\AndroidManifest.xml:23:13-46
 uses-library#com.osterhoutgroup.api.ext
-ADDED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\f72ec04caf326fd9f093762dcb8e1f95\AndroidManifest.xml:27:9-29:40
+ADDED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\9d14183d8ff09eda6f2e6f3f824f09a4\VuforiaWrapper\AndroidManifest.xml:27:9-29:40
 	android:required
-		ADDED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\f72ec04caf326fd9f093762dcb8e1f95\AndroidManifest.xml:29:13-37
+		ADDED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\9d14183d8ff09eda6f2e6f3f824f09a4\VuforiaWrapper\AndroidManifest.xml:29:13-37
 	android:name
-		ADDED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\f72ec04caf326fd9f093762dcb8e1f95\AndroidManifest.xml:28:13-54
+		ADDED from [:VuforiaWrapper:] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\9d14183d8ff09eda6f2e6f3f824f09a4\VuforiaWrapper\AndroidManifest.xml:28:13-54
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
 IMPLIED from D:\Android_Projects\Belajar Elektronik\src\main\AndroidManifest.xml:2:1-93:12 reason: com.vuforia.engine.ext requested WRITE_EXTERNAL_STORAGE
 provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
-ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\d288ba34127a2aa9aca7009ab48e5860\AndroidManifest.xml:23:9-27:43
+ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\c75b512c68f7bb7a7c5a931aae563be5\lifecycle-process-2.1.0\AndroidManifest.xml:23:9-27:43
 	android:authorities
-		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\d288ba34127a2aa9aca7009ab48e5860\AndroidManifest.xml:25:13-69
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\c75b512c68f7bb7a7c5a931aae563be5\lifecycle-process-2.1.0\AndroidManifest.xml:25:13-69
 	android:multiprocess
-		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\d288ba34127a2aa9aca7009ab48e5860\AndroidManifest.xml:27:13-40
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\c75b512c68f7bb7a7c5a931aae563be5\lifecycle-process-2.1.0\AndroidManifest.xml:27:13-40
 	android:exported
-		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\d288ba34127a2aa9aca7009ab48e5860\AndroidManifest.xml:26:13-37
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\c75b512c68f7bb7a7c5a931aae563be5\lifecycle-process-2.1.0\AndroidManifest.xml:26:13-37
 	android:name
-		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\d288ba34127a2aa9aca7009ab48e5860\AndroidManifest.xml:24:13-79
+		ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] C:\Users\BAGUS-PC\.gradle\caches\transforms-2\files-2.1\c75b512c68f7bb7a7c5a931aae563be5\lifecycle-process-2.1.0\AndroidManifest.xml:24:13-79

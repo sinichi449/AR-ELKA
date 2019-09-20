@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    xmlns:state="http://schemas.android.com/apk/res-auto"
     tools:showIn="navigation_view">
 
     <group android:checkableBehavior="single">
@@ -27,17 +26,6 @@
             android:id="@+id/nav_transistor"
             android:icon="@drawable/ic_transistor"
             android:title="Transistor" />
-        <item
-            android:id="@+id/nav_induktor"
-            android:icon="@drawable/ic_inductor"
-            android:title="Induktor" />
-        <item
-            android:id="@+id/nav_integrated_circuit"
-            android:icon="@drawable/ic_circuit"
-            android:title="Integrated Circuit"/>
-        <item
-            android:id="@+id/nav_daftar_pustaka"
-            android:icon="@drawable/ic_book_black_24dp"
-            android:title="Daftar Pustaka"/>
+
     </group>
 </menu>

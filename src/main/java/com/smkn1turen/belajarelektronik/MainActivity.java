@@ -1,11 +1,9 @@
 package com.smkn1turen.belajarelektronik;
 
-import androidx.appcompat.app.AppCompatActivity;
 import android.app.ActivityOptions;
 import android.content.Intent;
 import android.os.Build;
 import android.os.Bundle;
-import android.view.View;
 import android.view.WindowManager;
 import android.widget.ImageView;
 
@@ -14,6 +12,8 @@ import com.smkn1turen.belajarelektronik.ui.SKKDActivity;
 import com.smkn1turen.belajarelektronik.ui.Soal;
 import com.smkn1turen.belajarelektronik.ui.Tentang;
 
+import androidx.appcompat.app.AppCompatActivity;
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -21,12 +21,13 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        // Set native status bar color on Lollipop or higher
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
             getWindow().addFlags(WindowManager.LayoutParams.FLAG_DRAWS_SYSTEM_BAR_BACKGROUNDS);
             getWindow().setStatusBarColor(getResources().getColor(R.color.skyblue));
         }
 
-        // SKKD Event
+        // SKKD Intent
         ImageView imgSkkd = findViewById(R.id.img_skkd);
         imgSkkd.setOnClickListener(v -> {
             Intent myIntent = new Intent(MainActivity.this, SKKDActivity.class);
@@ -37,14 +38,14 @@ public class MainActivity extends AppCompatActivity {
         });
 
 
-        // AR Event
+        // AR Intent
         ImageView imgAr = findViewById(R.id.img_ar);
         imgAr.setOnClickListener(v -> {
             // TODO: AR Event Handler
             startActivity(new Intent(MainActivity.this, UnityPlayerActivity.class));
         });
 
-        // Materi Pelajaran Event
+        // Materi Pelajaran Intent
         ImageView imgMateriPelajaran = findViewById(R.id.img_materi_pelajaran);
         imgMateriPelajaran.setOnClickListener(v -> {
             ActivityOptions options = ActivityOptions.makeCustomAnimation(MainActivity.this, android.R.anim.slide_in_left,
@@ -52,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
             startActivity(new Intent(MainActivity.this, MateriPembelajaran.class), options.toBundle());
         });
 
-        // Soal-soal Event
+        // Soal-soal Intent
         ImageView imgSoal = findViewById(R.id.img_soal);
         imgSoal.setOnClickListener(v -> {
             ActivityOptions options = ActivityOptions.makeCustomAnimation(
@@ -61,13 +62,13 @@ public class MainActivity extends AppCompatActivity {
             startActivity(new Intent(MainActivity.this, Soal.class), options.toBundle());
         });
 
-        // Petujuk Event
+        // Petujuk Intent
         ImageView imgPetunjuk = findViewById(R.id.img_petunjuk);
         imgPetunjuk.setOnClickListener(v -> {
             // TODO: Petunjuk Event Handler
         });
 
-        // Tentang
+        // Tentang Intent
         ImageView imgTentang = findViewById(R.id.img_tentang);
         imgTentang.setOnClickListener(v -> {
             ActivityOptions options = ActivityOptions.makeCustomAnimation(MainActivity.this,
@@ -78,11 +79,12 @@ public class MainActivity extends AppCompatActivity {
 
         // Back Button (Exit)
         ImageView imgBack = findViewById(R.id.img_back);
-        imgBack.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                System.exit(0);
-            }
-        });
+        imgBack.setOnClickListener(v -> finish());
+    }
+
+    @Override
+    public void onBackPressed() {
+        super.onBackPressed();
+        finish();
     }
 }

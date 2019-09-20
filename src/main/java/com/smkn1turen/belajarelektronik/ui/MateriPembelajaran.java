@@ -3,34 +3,31 @@ package com.smkn1turen.belajarelektronik.ui;
 import android.app.ActivityOptions;
 import android.content.Intent;
 import android.os.Bundle;
-import com.google.android.material.floatingactionbutton.FloatingActionButton;
-import com.google.android.material.snackbar.Snackbar;
+import android.view.Menu;
 import android.view.MenuItem;
-import android.view.View;
-import androidx.annotation.NonNull;
-import androidx.core.view.GravityCompat;
-import androidx.navigation.NavController;
-import androidx.navigation.Navigation;
-import androidx.navigation.ui.AppBarConfiguration;
-import androidx.navigation.ui.NavigationUI;
+import android.widget.Toast;
+
+import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.navigation.NavigationView;
 import com.smkn1turen.belajarelektronik.MainActivity;
 import com.smkn1turen.belajarelektronik.R;
 import com.smkn1turen.belajarelektronik.UnityPlayerActivity;
 import com.smkn1turen.belajarelektronik.constant.SetBasicAppearance;
 
-import androidx.drawerlayout.widget.DrawerLayout;
+import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
-
-import android.view.Menu;
-import android.widget.Toast;
+import androidx.core.view.GravityCompat;
+import androidx.drawerlayout.widget.DrawerLayout;
+import androidx.navigation.NavController;
+import androidx.navigation.Navigation;
+import androidx.navigation.ui.AppBarConfiguration;
+import androidx.navigation.ui.NavigationUI;
 
 public class MateriPembelajaran extends AppCompatActivity {
 
     private AppBarConfiguration mAppBarConfiguration;
     private DrawerLayout drawer;
-    private NavController navController;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -53,11 +50,10 @@ public class MateriPembelajaran extends AppCompatActivity {
         // menu should be considered as top level destinations.
         mAppBarConfiguration = new AppBarConfiguration.Builder(
                 R.id.nav_home, R.id.nav_resistor, R.id.nav_kapasitor,
-                R.id.nav_dioda, R.id.nav_transistor, R.id.nav_induktor,
-                R.id.nav_integrated_circuit, R.id.nav_daftar_pustaka)
+                R.id.nav_dioda, R.id.nav_transistor)
                 .setDrawerLayout(drawer)
                 .build();
-        navController = Navigation.findNavController(this, R.id.nav_host_fragment);
+        NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment);
         NavigationUI.setupActionBarWithNavController(this, navController, mAppBarConfiguration);
         NavigationUI.setupWithNavController(navigationView, navController);
 
@@ -78,6 +74,7 @@ public class MateriPembelajaran extends AppCompatActivity {
             ActivityOptions options = ActivityOptions.makeCustomAnimation(MateriPembelajaran.this, android.R.anim.slide_in_left,
                     android.R.anim.slide_out_right);
             startActivity(intent, options.toBundle());
+            finish();
         } else {
             drawer.openDrawer(GravityCompat.START);
         }
