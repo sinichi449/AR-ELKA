@@ -9,6 +9,12 @@
             android:id="@+id/nav_home"
             android:icon="@drawable/ic_home_black_24dp"
             android:title="Dasar Elektronika" />
+
+        <item
+            android:id="@+id/nav_multimeter"
+            android:icon="@drawable/ic_multimeter"
+            android:title="Multimeter" />
+
         <item
             android:id="@+id/nav_resistor"
             android:icon="@drawable/ic_resistor"

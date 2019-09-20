@@ -49,8 +49,8 @@ public class MateriPembelajaran extends AppCompatActivity {
         // Passing each menu ID as a set of Ids because each
         // menu should be considered as top level destinations.
         mAppBarConfiguration = new AppBarConfiguration.Builder(
-                R.id.nav_home, R.id.nav_resistor, R.id.nav_kapasitor,
-                R.id.nav_dioda, R.id.nav_transistor, R.id.nav_induktor,
+                R.id.nav_home, R.id.nav_multimeter, R.id.nav_resistor,
+                R.id.nav_kapasitor, R.id.nav_dioda, R.id.nav_transistor, R.id.nav_induktor,
                 R.id.nav_integrated_circuit)
                 .setDrawerLayout(drawer)
                 .build();

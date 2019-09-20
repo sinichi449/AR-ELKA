@@ -13,6 +13,12 @@
         tools:layout="@layout/fragment_dasar_elektronika" />
 
     <fragment
+        android:id="@+id/nav_multimeter"
+        android:name="com.smkn1turen.belajarelektronik.ui.materi.multimeter.MultimeterFragment"
+        android:label="Multimeter"
+        tools:layout="@layout/fragment_multimeter" />
+
+    <fragment
         android:id="@+id/nav_resistor"
         android:name="com.smkn1turen.belajarelektronik.ui.materi.resistor.ResistorFragment"
         android:label="Resistor"
