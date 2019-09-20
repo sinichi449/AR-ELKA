@@ -27,5 +27,15 @@
             android:icon="@drawable/ic_transistor"
             android:title="Transistor" />
 
+        <item
+            android:id="@+id/nav_induktor"
+            android:icon="@drawable/ic_inductor"
+            android:title="Induktor" />
+
+        <item
+            android:id="@+id/nav_integrated_circuit"
+            android:icon="@drawable/ic_circuit"
+            android:title="Integrated Circuit" />
+
     </group>
 </menu>

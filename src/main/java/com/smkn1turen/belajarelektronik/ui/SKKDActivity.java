@@ -1,12 +1,13 @@
 package com.smkn1turen.belajarelektronik.ui;
 
-import androidx.appcompat.app.AppCompatActivity;
-import androidx.appcompat.widget.Toolbar;
 import android.os.Bundle;
 import android.widget.ImageView;
 
 import com.smkn1turen.belajarelektronik.R;
-import com.smkn1turen.belajarelektronik.constant.SetBasicAppearance;
+import com.smkn1turen.belajarelektronik.constant.UniversalSetter;
+
+import androidx.appcompat.app.AppCompatActivity;
+import androidx.appcompat.widget.Toolbar;
 
 public class SKKDActivity extends AppCompatActivity {
 
@@ -19,10 +20,10 @@ public class SKKDActivity extends AppCompatActivity {
         setSupportActionBar(mToolbar);
 
         // Set android native status bar to be matched with current toolbar color
-        SetBasicAppearance.setBlueStatusBar(getWindow(), getResources());
+        UniversalSetter.setBlueStatusBar(getWindow(), getResources());
 
         // Go back to MainActivity
         ImageView imgBack = findViewById(R.id.btn_back_from_silabus);
-        SetBasicAppearance.backToMainWithSlide(imgBack, this);
+        UniversalSetter.backToMainWithSlide(imgBack, this);
     }
 }

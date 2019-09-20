@@ -7,10 +7,10 @@ import android.os.Bundle;
 import android.view.WindowManager;
 import android.widget.ImageView;
 
+import com.smkn1turen.belajarelektronik.ui.Info;
 import com.smkn1turen.belajarelektronik.ui.MateriPembelajaran;
 import com.smkn1turen.belajarelektronik.ui.SKKDActivity;
 import com.smkn1turen.belajarelektronik.ui.Soal;
-import com.smkn1turen.belajarelektronik.ui.Tentang;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -68,13 +68,13 @@ public class MainActivity extends AppCompatActivity {
             // TODO: Petunjuk Event Handler
         });
 
-        // Tentang Intent
+        // Info Intent
         ImageView imgTentang = findViewById(R.id.img_tentang);
         imgTentang.setOnClickListener(v -> {
             ActivityOptions options = ActivityOptions.makeCustomAnimation(MainActivity.this,
                     android.R.anim.slide_in_left,
                     android.R.anim.slide_out_right);
-            startActivity(new Intent(MainActivity.this, Tentang.class), options.toBundle());
+            startActivity(new Intent(MainActivity.this, Info.class), options.toBundle());
         });
 
         // Back Button (Exit)

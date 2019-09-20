@@ -36,4 +36,15 @@
         android:label="Transistor"
         tools:layout="@layout/fragment_transistor" />
 
+    <fragment
+        android:id="@+id/nav_induktor"
+        android:name="com.smkn1turen.belajarelektronik.ui.materi.induktor.InduktorFragment"
+        android:label="Induktor"
+        tools:layout="@layout/fragment_induktor" />
+
+    <fragment
+        android:id="@+id/nav_integrated_circuit"
+        android:name="com.smkn1turen.belajarelektronik.ui.materi.integrated_circuit.IntegratedCircuitFragment"
+        android:label="Integrated Circuit (IC)" />
+
 </navigation>

@@ -12,7 +12,7 @@ import com.google.android.material.navigation.NavigationView;
 import com.smkn1turen.belajarelektronik.MainActivity;
 import com.smkn1turen.belajarelektronik.R;
 import com.smkn1turen.belajarelektronik.UnityPlayerActivity;
-import com.smkn1turen.belajarelektronik.constant.SetBasicAppearance;
+import com.smkn1turen.belajarelektronik.constant.UniversalSetter;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -36,7 +36,7 @@ public class MateriPembelajaran extends AppCompatActivity {
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-        SetBasicAppearance.setOrangeStatusBar(getWindow(), getResources());
+        UniversalSetter.setOrangeStatusBar(getWindow(), getResources());
 
         FloatingActionButton fab = findViewById(R.id.fab);
         // TODO: Replace code
@@ -50,7 +50,8 @@ public class MateriPembelajaran extends AppCompatActivity {
         // menu should be considered as top level destinations.
         mAppBarConfiguration = new AppBarConfiguration.Builder(
                 R.id.nav_home, R.id.nav_resistor, R.id.nav_kapasitor,
-                R.id.nav_dioda, R.id.nav_transistor)
+                R.id.nav_dioda, R.id.nav_transistor, R.id.nav_induktor,
+                R.id.nav_integrated_circuit)
                 .setDrawerLayout(drawer)
                 .build();
         NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment);

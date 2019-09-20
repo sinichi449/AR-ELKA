@@ -6,7 +6,7 @@ import android.webkit.WebView;
 import android.widget.ImageView;
 
 import com.smkn1turen.belajarelektronik.R;
-import com.smkn1turen.belajarelektronik.constant.SetBasicAppearance;
+import com.smkn1turen.belajarelektronik.constant.UniversalSetter;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -18,7 +18,7 @@ public class Soal extends AppCompatActivity {
         setContentView(R.layout.activity_soal);
 
         // Set android native status bar to be matched with current toolbar color
-        SetBasicAppearance.setBlueStatusBar(getWindow(), getResources());
+        UniversalSetter.setBlueStatusBar(getWindow(), getResources());
 
         // WEB View with .htm file view
         WebView webView = findViewById(R.id.webView);
@@ -29,6 +29,6 @@ public class Soal extends AppCompatActivity {
 
         // Set back button on toolbar behaviour
         ImageView imgBack = findViewById(R.id.btn_back_from_soal);
-        SetBasicAppearance.backToMainWithSlide(imgBack, this);
+        UniversalSetter.backToMainWithSlide(imgBack, this);
     }
 }

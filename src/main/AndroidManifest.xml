@@ -19,7 +19,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ui.Tentang"
+        <activity android:name=".ui.Info"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
         <activity android:name=".ui.MateriPembelajaran"
             android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
