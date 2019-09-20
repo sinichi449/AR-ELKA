@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -89,7 +88,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
-                android:text="1. Kompetensi Dasar" />
+                android:text="Kompetensi Dasar" />
 
             <TextView
                 android:layout_width="match_parent"
@@ -98,7 +97,17 @@
                 android:layout_marginLeft="30dp"
                 android:layout_marginTop="5dp"
                 android:fontFamily="@font/arial"
-                android:text="Menerapkan elektronika dasar (kelistrikan, komponen elektronika dan skema elektronika)."
+                android:text="3.5 Menerapkan elektronika dasar (kelistrikan, komponen elektronika dan skema elektronika)."
+                android:textColor="#3D3D3D" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="30dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="5dp"
+                android:fontFamily="@font/arial"
+                android:text="4.5 Mempraktikkan fungsi kelistrikan dan komponen elektronika)"
                 android:textColor="#3D3D3D" />
 
             <TextView
@@ -106,21 +115,28 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
-                android:text="2. Indikator Kompetensi" />
+                android:text="Indikator Kompetensi" />
 
             <TextView
                 style="@style/CommonText"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="5dp"
-                android:text="a. Menjelaskan dasar-dasar listrik dan elektronika dasar.\nb. Menjelaskan komponen-komponen elektronika"/>
+                android:text="3.5.1 Menjelaskan komponen-komponen elektronika dasar"/>
+
+            <TextView
+                style="@style/CommonText"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:text="3.5.2 Menggambarkan simbol-simbol komponen elektronika dasar"/>
 
             <TextView
                 style="@style/HeaderText"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
-                android:text="3. Materi Pokok" />
+                android:text="Materi Pokok" />
 
             <TextView
                 style="@style/CommonText"
