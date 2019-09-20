@@ -80,7 +80,12 @@ public class MainActivity extends AppCompatActivity {
 
         // Back Button (Exit)
         ImageView imgBack = findViewById(R.id.img_back);
-        imgBack.setOnClickListener(v -> finish());
+        imgBack.setOnClickListener(v -> {
+            Intent intent = new Intent(Intent.ACTION_MAIN);
+            intent.addCategory(Intent.CATEGORY_HOME);
+            intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+            startActivity(intent);
+        });
     }
 
     @Override
