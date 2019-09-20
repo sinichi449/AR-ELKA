@@ -1,1 +1,2 @@
-src/main/assets/* linguist-vendored
+*.htm linguist-vendored
+*.html linguist-vendored
