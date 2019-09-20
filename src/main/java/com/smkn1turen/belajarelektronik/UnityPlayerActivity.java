@@ -17,8 +17,6 @@ public class UnityPlayerActivity extends Activity
     // Setup activity layout
     @Override protected void onCreate(Bundle savedInstanceState)
     {
-
-        // Set fullscreen
         requestWindowFeature(Window.FEATURE_NO_TITLE);
         super.onCreate(savedInstanceState);
 

@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="ZENERDIODE" size="100.000000 119.920319" />
+    <ImageTarget name="TRANSISTOR" size="100.000000 119.920319" />
+    <ImageTarget name="RESISTOR" size="100.000000 120.717133" />
+    <ImageTarget name="PHOTODIODE" size="100.000000 119.920319" />
+    <ImageTarget name="LED" size="100.000000 120.916336" />
+    <ImageTarget name="DIODE" size="100.000000 120.916336" />
+    <ImageTarget name="CAPASITOR" size="100.000000 121.314743" />
     <ImageTarget name="DIOD1" size="400.000000 372.972961" />
     <ImageTarget name="TR1" size="400.000000 400.000000" />
     <ImageTarget name="RES1" size="400.000000 400.000000" />
@@ -8,13 +15,5 @@
     <ImageTarget name="ZEN1" size="400.000000 200.000000" />
     <ImageTarget name="LED1" size="400.000000 400.000000" />
     <ImageTarget name="CAP1" size="400.000000 284.158417" />
-    <ImageTarget name="QRTR2" size="400.000000 575.200012" />
-    <ImageTarget name="QRRE2" size="400.000000 575.200012" />
-    <ImageTarget name="QRCA2" size="400.000000 575.200012" />
-    <ImageTarget name="SD" size="400.000000 575.200012" />
-    <ImageTarget name="ZD" size="400.000000 575.200012" />
-    <ImageTarget name="LED" size="400.000000 575.200012" />
-    <ImageTarget name="PD" size="400.000000 575.200012" />
-    <ImageTarget name="IMG_20190911_092028" size="400.000000 523.809509" />
   </Tracking>
 </QCARConfig>
