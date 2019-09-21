@@ -2,9 +2,13 @@ package com.smkn1turen.belajarelektronik.ui;
 
 import android.app.ActivityOptions;
 import android.content.Intent;
+import android.content.pm.PackageInfo;
+import android.content.pm.PackageManager;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
@@ -58,7 +62,18 @@ public class MateriPembelajaran extends AppCompatActivity {
         NavigationUI.setupActionBarWithNavController(this, navController, mAppBarConfiguration);
         NavigationUI.setupWithNavController(navigationView, navController);
 
-
+        // Get and write build version automatically
+        View navHeaderView = getLayoutInflater().inflate(
+                R.layout.nav_header_materi_pembelajaran, null);
+        TextView tvVersion =  navHeaderView.findViewById(R.id.tv_version);
+        try {
+            PackageInfo packageInfo = this.getPackageManager()
+                    .getPackageInfo(getPackageName(), 0);
+            String version = packageInfo.versionName;
+            tvVersion.setText(version);
+        } catch (PackageManager.NameNotFoundException e) {
+            e.printStackTrace();
+        }
     }
 
     @Override

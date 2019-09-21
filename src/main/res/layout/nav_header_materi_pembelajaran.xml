@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/head_menu"
     android:layout_width="match_parent"
     android:layout_height="@dimen/nav_header_height"
@@ -43,9 +44,10 @@
             android:layout_marginLeft="15dp" />
 
         <TextView
+            android:id="@+id/tv_version"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="V 2.0.2"
+            tools:text="V.x.x"
             android:fontFamily="@font/arial"
             android:textStyle="italic"
             android:textColor="@color/colorWhite"

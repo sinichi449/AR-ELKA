@@ -89,7 +89,7 @@
     </content>
     <orderEntry type="jdk" jdkName="Android API 29 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" name="Gradle: __local_aars__:E.\Belajar Elektronik\libs\unity-classes.jar:unspecified@jar" level="project" />
+    <orderEntry type="library" name="Gradle: __local_aars__:D.\Android_Projects\Belajar Elektronik\libs\unity-classes.jar:unspecified@jar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.arch.core:core-common:2.1.0@jar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common:2.2.0-alpha04@jar" level="project" />
     <orderEntry type="library" name="Gradle: androidx.collection:collection:1.1.0@jar" level="project" />
