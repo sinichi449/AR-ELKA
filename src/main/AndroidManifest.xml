@@ -3,14 +3,15 @@
     package="com.smkn1turen.belajarelektronik"
     android:installLocation="preferExternal">
 
-    <uses-permission android:name="android.permission.INTERNET" />
     <application
         android:icon="@drawable/ic_logo"
-        android:roundIcon="@drawable/ic_logo"
         android:label="@string/app_name"
+        android:roundIcon="@drawable/ic_logo"
         android:supportsRtl="true"
         android:theme="@style/Full">
-        <activity android:name=".splash.SplashPertamaKemendikbud"></activity>
+        <activity android:name=".ui.PetunjukActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"></activity>
+        <activity android:name=".splash.SplashPertamaKemendikbud" />
         <activity android:name=".splash.SplashKeduaRumahBelajar" />
         <activity android:name=".splash.SplashApp">
             <intent-filter>
@@ -19,18 +20,21 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ui.Info"
-            android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
-        <activity android:name=".ui.MateriPembelajaran"
-            android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
-        <activity android:name=".ui.Soal"
-            android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
-        <activity android:name=".ui.SKKDActivity"
-            android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
-        <activity android:name=".MainActivity"
-            android:theme="@style/MainActivity">
-
-        </activity>
+        <activity
+            android:name=".ui.Info"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name=".ui.MateriPembelajaran"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name=".ui.Soal"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name=".ui.SKKDActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/MainActivity"></activity>
         <activity
             android:name=".UnityPlayerActivity"
             android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
@@ -66,6 +70,7 @@
         android:normalScreens="true"
         android:smallScreens="true"
         android:xlargeScreens="true" />
+
     <uses-feature android:glEsVersion="0x00020000" />
     <uses-feature
         android:name="android.hardware.camera"
@@ -82,10 +87,11 @@
     <uses-feature
         android:name="android.hardware.touchscreen.multitouch"
         android:required="false" />
-
     <uses-feature
         android:name="android.hardware.touchscreen.multitouch.distinct"
         android:required="false" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.INTERNET" />
 
     <uses-permission android:name="android.permission.CAMERA" />

@@ -9,6 +9,7 @@ import android.widget.ImageView;
 
 import com.smkn1turen.belajarelektronik.ui.Info;
 import com.smkn1turen.belajarelektronik.ui.MateriPembelajaran;
+import com.smkn1turen.belajarelektronik.ui.PetunjukActivity;
 import com.smkn1turen.belajarelektronik.ui.SKKDActivity;
 import com.smkn1turen.belajarelektronik.ui.Soal;
 
@@ -66,7 +67,10 @@ public class MainActivity extends AppCompatActivity {
         // Petujuk Intent
         ImageView imgPetunjuk = findViewById(R.id.img_petunjuk);
         imgPetunjuk.setOnClickListener(v -> {
-            // TODO: Petunjuk Event Handler
+            ActivityOptions options = ActivityOptions.makeCustomAnimation(
+                    MainActivity.this, android.R.anim.slide_in_left,
+                    android.R.anim.slide_out_right);
+            startActivity(new Intent(MainActivity.this, PetunjukActivity.class), options.toBundle());
         });
 
         // Info Intent
