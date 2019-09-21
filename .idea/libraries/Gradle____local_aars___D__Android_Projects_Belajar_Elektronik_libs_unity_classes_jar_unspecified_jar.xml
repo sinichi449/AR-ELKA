@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="Gradle: __local_aars__:D.\Android_Projects\Belajar Elektronik\libs\unity-classes.jar:unspecified@jar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/libs/unity-classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Belajar Elektronik/libs/unity-classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
