@@ -1078,8 +1078,8 @@ var Finished = false;
 var Qs = null;
 var QArray = new Array();
 var ShowingAllQuestions = false;
-var ShowAllQuestionsCaption = 'Show all questions';
-var ShowOneByOneCaption = 'Show questions one by one';
+var ShowAllQuestionsCaption = 'Tampilkan semua pertanyaan';
+var ShowOneByOneCaption = 'Tampilkan pertanyaan satu per satu';
 var State = new Array();
 var Feedback = '';
 var TimeOver = false;
@@ -1731,7 +1731,7 @@ function TimesUp(){
 
 //CODE FOR HANDLING TIMER
 //Timer code
-var Seconds = 20;
+var Seconds = 1200;
 var Interval = null;
 
 function StartTimer(){
@@ -1779,21 +1779,6 @@ function DownTime(){
 <!-- BeginTopNavButtons -->
 
 
-<div class="NavButtonBar" id="TopNavBar">
-
-
-
-
-<button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)"  onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='contents.htm'; return false;"> Index </button>
-
-
-
-<button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='nextpage.htm'; return false;">=&gt;</button>
-
-
-</div>
-
-
 
 <!-- EndTopNavButtons -->
 
@@ -1820,7 +1805,7 @@ function DownTime(){
 <div id="QNav" class="QuestionNavigation">
 
 <p style="text-align: right;">
-<button id="ShowMethodButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOver(this)" onclick="ShowHideQuestions(); return false;">Show all questions</button>
+<button id="ShowMethodButton" class="FuncButton" onfocus="FuncBtnOver(this)" onblur="FuncBtnOut(this)" onmouseover="FuncBtnOver(this)" onmouseout="FuncBtnOut(this)" onmousedown="FuncBtnDown(this)" onmouseup="FuncBtnOver(this)" onclick="ShowHideQuestions(); return false;">Tampilkan semua pertanyaan</button>
 </p>
 
 <div id="OneByOneReadout">
@@ -1858,21 +1843,6 @@ function DownTime(){
 </div>
 
 <!-- BeginBottomNavButtons -->
-
-
-<div class="NavButtonBar" id="BottomNavBar">
-
-
-
-
-<button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)"  onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='contents.htm'; return false;"> Index </button>
-
-
-
-<button class="NavButton" onfocus="NavBtnOver(this)" onblur="NavBtnOut(this)" onmouseover="NavBtnOver(this)" onmouseout="NavBtnOut(this)" onmousedown="NavBtnDown(this)" onmouseup="NavBtnOut(this)" onclick="location='nextpage.htm'; return false;">=&gt;</button>
-
-
-</div>
 
 
 
