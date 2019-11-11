@@ -93,7 +93,7 @@ public class MateriPembelajaran extends AppCompatActivity {
         } else if (item.getItemId() == R.id.action_download) {
             copyAssets();
             Toast.makeText(MateriPembelajaran.this, "File terunduh pada folder AR-ELKA",Toast.LENGTH_SHORT).show();
-            createNotification();
+//            createNotification();
         } else {
             drawer.openDrawer(GravityCompat.START);
         }

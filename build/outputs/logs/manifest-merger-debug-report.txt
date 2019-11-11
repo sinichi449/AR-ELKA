@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:2:1-99:12
-INJECTED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:2:1-99:12
-INJECTED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:2:1-99:12
-INJECTED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:2:1-99:12
+ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:2:1-102:12
+INJECTED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:2:1-102:12
+INJECTED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:2:1-102:12
+INJECTED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:2:1-102:12
 MERGED from [:VuforiaWrapper:] /home/bagus/.gradle/caches/transforms-2/files-2.1/9d14183d8ff09eda6f2e6f3f824f09a4/VuforiaWrapper/AndroidManifest.xml:2:1-32:12
 MERGED from [androidx.navigation:navigation-ui:2.1.0] /home/bagus/.gradle/caches/transforms-2/files-2.1/62f3ba927f67297f427d0ee0ed5812f2/jetified-navigation-ui-2.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.material:material:1.1.0-alpha10] /home/bagus/.gradle/caches/transforms-2/files-2.1/da95ffa5303229b21124ff07d5e27b01/material-1.1.0-alpha10/AndroidManifest.xml:17:1-24:12
@@ -52,27 +52,43 @@ MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/bagus/.gradle/cac
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/bagus/.gradle/caches/transforms-2/files-2.1/c9c8616d74aa0ab3eb457d24b669c685/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0-alpha04] /home/bagus/.gradle/caches/transforms-2/files-2.1/2d210d410bc29a4e8903d3e9a0815146/lifecycle-viewmodel-2.2.0-alpha04/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] /home/bagus/.gradle/caches/transforms-2/files-2.1/d4ef17d609918d2a5f5a86d1ea02678f/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-INJECTED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:2:1-99:12
-INJECTED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:2:1-99:12
-INJECTED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:2:1-99:12
+INJECTED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:2:1-102:12
+INJECTED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:2:1-102:12
+INJECTED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:2:1-102:12
 	package
 		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:3:5-47
 		INJECTED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml
 		INJECTED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:2:1-99:12
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:2:1-102:12
 		INJECTED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:2:1-99:12
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:2:1-102:12
 		INJECTED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:2:11-69
 	android:installLocation
 		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:4:5-45
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:7:5-81
+MERGED from [:VuforiaWrapper:] /home/bagus/.gradle/caches/transforms-2/files-2.1/9d14183d8ff09eda6f2e6f3f824f09a4/VuforiaWrapper/AndroidManifest.xml:17:5-81
+MERGED from [:VuforiaWrapper:] /home/bagus/.gradle/caches/transforms-2/files-2.1/9d14183d8ff09eda6f2e6f3f824f09a4/VuforiaWrapper/AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:8:5-67
+MERGED from [:VuforiaWrapper:] /home/bagus/.gradle/caches/transforms-2/files-2.1/9d14183d8ff09eda6f2e6f3f824f09a4/VuforiaWrapper/AndroidManifest.xml:14:5-67
+MERGED from [:VuforiaWrapper:] /home/bagus/.gradle/caches/transforms-2/files-2.1/9d14183d8ff09eda6f2e6f3f824f09a4/VuforiaWrapper/AndroidManifest.xml:14:5-67
+	android:name
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:8:22-64
 application
-ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:6:5-65:19
+ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:9:5-68:19
 MERGED from [:VuforiaWrapper:] /home/bagus/.gradle/caches/transforms-2/files-2.1/9d14183d8ff09eda6f2e6f3f824f09a4/VuforiaWrapper/AndroidManifest.xml:19:5-30:19
 MERGED from [:VuforiaWrapper:] /home/bagus/.gradle/caches/transforms-2/files-2.1/9d14183d8ff09eda6f2e6f3f824f09a4/VuforiaWrapper/AndroidManifest.xml:19:5-30:19
 MERGED from [com.google.android.material:material:1.1.0-alpha10] /home/bagus/.gradle/caches/transforms-2/files-2.1/da95ffa5303229b21124ff07d5e27b01/material-1.1.0-alpha10/AndroidManifest.xml:22:5-20
@@ -90,192 +106,186 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/bagus
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] /home/bagus/.gradle/caches/transforms-2/files-2.1/c527b78844be871c44103f6f45a963fb/core-1.1.0/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:13:9-35
 	android:label
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:11:9-41
 	android:debuggable
 		ADDED from [:VuforiaWrapper:] /home/bagus/.gradle/caches/transforms-2/files-2.1/9d14183d8ff09eda6f2e6f3f824f09a4/VuforiaWrapper/AndroidManifest.xml:19:18-44
 	android:roundIcon
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:9:9-46
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:12:9-46
 	android:icon
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:7:9-41
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:10:9-41
 	android:theme
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:11:9-36
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:14:9-36
 activity#com.smkn1turen.belajarelektronik.ui.PetunjukActivity
-ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:12:9-13:81
+ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:15:9-16:81
 	android:theme
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:13:13-69
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:16:13-69
 	android:name
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:12:19-54
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:15:19-54
 activity#com.smkn1turen.belajarelektronik.splash.SplashPertamaKemendikbud
-ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:14:9-69
+ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:17:9-69
 	android:name
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:14:19-66
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:17:19-66
 activity#com.smkn1turen.belajarelektronik.splash.SplashKeduaRumahBelajar
-ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:15:9-68
+ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:18:9-68
 	android:name
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:15:19-65
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:18:19-65
 activity#com.smkn1turen.belajarelektronik.splash.SplashApp
-ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:16:9-22:20
+ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:19:9-25:20
 	android:name
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:16:19-51
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:19:19-51
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:17:13-21:29
+ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:20:13-24:29
 action#android.intent.action.MAIN
-ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:18:17-69
+ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:21:17-69
 	android:name
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:18:25-66
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:21:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:20:17-77
+ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:23:17-77
 	android:name
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:20:27-74
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:23:27-74
 activity#com.smkn1turen.belajarelektronik.ui.Info
-ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:23:9-25:72
-	android:theme
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:25:13-69
-	android:name
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:24:13-36
-activity#com.smkn1turen.belajarelektronik.ui.MateriPembelajaran
 ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:26:9-28:72
 	android:theme
 		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:28:13-69
 	android:name
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:27:13-50
-activity#com.smkn1turen.belajarelektronik.ui.Soal
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:27:13-36
+activity#com.smkn1turen.belajarelektronik.ui.MateriPembelajaran
 ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:29:9-31:72
 	android:theme
 		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:31:13-69
 	android:name
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:30:13-36
-activity#com.smkn1turen.belajarelektronik.ui.SKKDActivity
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:30:13-50
+activity#com.smkn1turen.belajarelektronik.ui.Soal
 ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:32:9-34:72
 	android:theme
 		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:34:13-69
 	android:name
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:33:13-44
-activity#com.smkn1turen.belajarelektronik.MainActivity
-ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:35:9-37:60
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:33:13-36
+activity#com.smkn1turen.belajarelektronik.ui.SKKDActivity
+ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:35:9-37:72
 	android:theme
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:37:13-48
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:37:13-69
 	android:name
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:36:13-41
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:36:13-44
+activity#com.smkn1turen.belajarelektronik.MainActivity
+ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:38:9-40:60
+	android:theme
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:40:13-48
+	android:name
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:39:13-41
 activity#com.smkn1turen.belajarelektronik.UnityPlayerActivity
-ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:38:9-51:20
+ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:41:9-54:20
 	android:screenOrientation
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:44:13-51
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:47:13-51
 	android:label
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:42:13-45
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:45:13-45
 	android:launchMode
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:43:13-44
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:46:13-44
 	android:hardwareAccelerated
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:41:13-48
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:44:13-48
 	android:configChanges
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:40:13-194
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:43:13-194
 	android:name
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:39:13-48
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:42:13-48
 meta-data#unityplayer.UnityActivity
-ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:45:13-47:40
-	android:value
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:47:17-37
-	android:name
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:46:17-57
-meta-data#android.notch_support
 ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:48:13-50:40
 	android:value
 		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:50:17-37
 	android:name
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:49:17-53
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:49:17-57
+meta-data#android.notch_support
+ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:51:13-53:40
+	android:value
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:53:17-37
+	android:name
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:52:17-53
 meta-data#unity.build-id
-ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:53:9-55:68
+ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:56:9-58:68
 	android:value
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:55:13-65
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:58:13-65
 	android:name
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:54:13-42
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:57:13-42
 meta-data#unity.splash-mode
-ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:56:9-58:33
+ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:59:9-61:33
 	android:value
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:58:13-30
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:61:13-30
 	android:name
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:57:13-45
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:60:13-45
 meta-data#unity.splash-enable
-ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:59:9-61:36
+ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:62:9-64:36
 	android:value
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:61:13-33
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:64:13-33
 	android:name
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:60:13-47
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:63:13-47
 meta-data#notch.config
-ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:62:9-64:50
+ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:65:9-67:50
 	android:value
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:64:13-47
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:67:13-47
 	android:name
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:63:13-40
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:66:13-40
 supports-screens
-ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:67:5-72:40
+ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:70:5-75:40
 	android:largeScreens
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:69:9-36
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:72:9-36
 	android:smallScreens
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:71:9-36
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:74:9-36
 	android:normalScreens
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:70:9-37
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:73:9-37
 	android:xlargeScreens
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:72:9-37
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:75:9-37
 	android:anyDensity
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:68:9-34
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:71:9-34
 uses-feature#0x00020000
-ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:74:5-54
+ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:77:5-54
 	android:glEsVersion
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:74:19-51
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:77:19-51
 uses-feature#android.hardware.camera
-ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:75:5-77:36
-MERGED from [:VuforiaWrapper:] /home/bagus/.gradle/caches/transforms-2/files-2.1/9d14183d8ff09eda6f2e6f3f824f09a4/VuforiaWrapper/AndroidManifest.xml:12:5-60
-MERGED from [:VuforiaWrapper:] /home/bagus/.gradle/caches/transforms-2/files-2.1/9d14183d8ff09eda6f2e6f3f824f09a4/VuforiaWrapper/AndroidManifest.xml:12:5-60
-	android:required
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:77:9-33
-		MERGED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:77:9-33
-	android:name
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:76:9-47
-uses-feature#android.hardware.camera.autofocus
 ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:78:5-80:36
+MERGED from [:VuforiaWrapper:] /home/bagus/.gradle/caches/transforms-2/files-2.1/9d14183d8ff09eda6f2e6f3f824f09a4/VuforiaWrapper/AndroidManifest.xml:12:5-60
+MERGED from [:VuforiaWrapper:] /home/bagus/.gradle/caches/transforms-2/files-2.1/9d14183d8ff09eda6f2e6f3f824f09a4/VuforiaWrapper/AndroidManifest.xml:12:5-60
 	android:required
 		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:80:9-33
+		MERGED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:80:9-33
 	android:name
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:79:9-57
-uses-feature#android.hardware.camera.front
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:79:9-47
+uses-feature#android.hardware.camera.autofocus
 ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:81:5-83:36
 	android:required
 		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:83:9-33
 	android:name
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:82:9-53
-uses-feature#android.hardware.touchscreen
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:82:9-57
+uses-feature#android.hardware.camera.front
 ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:84:5-86:36
 	android:required
 		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:86:9-33
 	android:name
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:85:9-52
-uses-feature#android.hardware.touchscreen.multitouch
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:85:9-53
+uses-feature#android.hardware.touchscreen
 ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:87:5-89:36
 	android:required
 		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:89:9-33
 	android:name
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:88:9-63
-uses-feature#android.hardware.touchscreen.multitouch.distinct
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:88:9-52
+uses-feature#android.hardware.touchscreen.multitouch
 ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:90:5-92:36
 	android:required
 		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:92:9-33
 	android:name
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:91:9-72
-uses-permission#android.permission.INTERNET
-ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:94:5-67
-MERGED from [:VuforiaWrapper:] /home/bagus/.gradle/caches/transforms-2/files-2.1/9d14183d8ff09eda6f2e6f3f824f09a4/VuforiaWrapper/AndroidManifest.xml:14:5-67
-MERGED from [:VuforiaWrapper:] /home/bagus/.gradle/caches/transforms-2/files-2.1/9d14183d8ff09eda6f2e6f3f824f09a4/VuforiaWrapper/AndroidManifest.xml:14:5-67
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:91:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:93:5-95:36
+	android:required
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:95:9-33
 	android:name
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:94:22-64
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:94:9-72
 uses-permission#android.permission.CAMERA
-ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:97:5-65
+ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:100:5-65
 MERGED from [:VuforiaWrapper:] /home/bagus/.gradle/caches/transforms-2/files-2.1/9d14183d8ff09eda6f2e6f3f824f09a4/VuforiaWrapper/AndroidManifest.xml:15:5-65
 MERGED from [:VuforiaWrapper:] /home/bagus/.gradle/caches/transforms-2/files-2.1/9d14183d8ff09eda6f2e6f3f824f09a4/VuforiaWrapper/AndroidManifest.xml:15:5-65
 	android:name
-		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:97:22-62
+		ADDED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:100:22-62
 uses-sdk
 INJECTED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml
@@ -390,10 +400,6 @@ uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from [:VuforiaWrapper:] /home/bagus/.gradle/caches/transforms-2/files-2.1/9d14183d8ff09eda6f2e6f3f824f09a4/VuforiaWrapper/AndroidManifest.xml:16:5-79
 	android:name
 		ADDED from [:VuforiaWrapper:] /home/bagus/.gradle/caches/transforms-2/files-2.1/9d14183d8ff09eda6f2e6f3f824f09a4/VuforiaWrapper/AndroidManifest.xml:16:22-76
-uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from [:VuforiaWrapper:] /home/bagus/.gradle/caches/transforms-2/files-2.1/9d14183d8ff09eda6f2e6f3f824f09a4/VuforiaWrapper/AndroidManifest.xml:17:5-81
-	android:name
-		ADDED from [:VuforiaWrapper:] /home/bagus/.gradle/caches/transforms-2/files-2.1/9d14183d8ff09eda6f2e6f3f824f09a4/VuforiaWrapper/AndroidManifest.xml:17:22-78
 meta-data#com.google.ar.core
 ADDED from [:VuforiaWrapper:] /home/bagus/.gradle/caches/transforms-2/files-2.1/9d14183d8ff09eda6f2e6f3f824f09a4/VuforiaWrapper/AndroidManifest.xml:22:9-24:40
 	android:value
@@ -406,8 +412,6 @@ ADDED from [:VuforiaWrapper:] /home/bagus/.gradle/caches/transforms-2/files-2.1/
 		ADDED from [:VuforiaWrapper:] /home/bagus/.gradle/caches/transforms-2/files-2.1/9d14183d8ff09eda6f2e6f3f824f09a4/VuforiaWrapper/AndroidManifest.xml:29:13-37
 	android:name
 		ADDED from [:VuforiaWrapper:] /home/bagus/.gradle/caches/transforms-2/files-2.1/9d14183d8ff09eda6f2e6f3f824f09a4/VuforiaWrapper/AndroidManifest.xml:28:13-54
-uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from /home/bagus/StudioProjects/AR-ELKA/src/main/AndroidManifest.xml:2:1-99:12 reason: com.vuforia.engine.ext requested WRITE_EXTERNAL_STORAGE
 provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
 ADDED from [androidx.lifecycle:lifecycle-process:2.1.0] /home/bagus/.gradle/caches/transforms-2/files-2.1/c75b512c68f7bb7a7c5a931aae563be5/lifecycle-process-2.1.0/AndroidManifest.xml:23:9-27:43
 	android:authorities
